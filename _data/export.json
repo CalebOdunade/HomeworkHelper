@@ -1,0 +1,7655 @@
+{
+  "filename": "religiontestfile1.pdf",
+  "page_data": [
+    {
+      "page": 0,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/c3700a7f-eb02-41bf-b63a-3801721c243b-1.jpeg?ik-s=78a8173645df9757a679cfa55fc86743bd6f0a9b&ik-t=1747195778",
+      "size": {
+        "width": 2479,
+        "height": 3508
+      },
+      "words": [
+        {
+          "text": "HARVARD",
+          "xmin": 224,
+          "ymin": 186,
+          "xmax": 584,
+          "ymax": 236
+        },
+        {
+          "text": "DIVINITY",
+          "xmin": 618,
+          "ymin": 187,
+          "xmax": 902,
+          "ymax": 236
+        },
+        {
+          "text": "SCHOOL",
+          "xmin": 924,
+          "ymin": 187,
+          "xmax": 1199,
+          "ymax": 238
+        },
+        {
+          "text": "Religion",
+          "xmin": 226,
+          "ymin": 390,
+          "xmax": 510,
+          "ymax": 468
+        },
+        {
+          "text": "and",
+          "xmin": 530,
+          "ymin": 390,
+          "xmax": 656,
+          "ymax": 451
+        },
+        {
+          "text": "Public",
+          "xmin": 678,
+          "ymin": 390,
+          "xmax": 888,
+          "ymax": 449
+        },
+        {
+          "text": "Life",
+          "xmin": 910,
+          "ymin": 389,
+          "xmax": 1037,
+          "ymax": 449
+        },
+        {
+          "text": "Menu",
+          "xmin": 2223,
+          "ymin": 454,
+          "xmax": 2321,
+          "ymax": 485
+        },
+        {
+          "text": "Home",
+          "xmin": 225,
+          "ymin": 636,
+          "xmax": 342,
+          "ymax": 671
+        },
+        {
+          "text": ">",
+          "xmin": 387,
+          "ymin": 641,
+          "xmax": 400,
+          "ymax": 663
+        },
+        {
+          "text": "What",
+          "xmin": 449,
+          "ymin": 635,
+          "xmax": 552,
+          "ymax": 673
+        },
+        {
+          "text": "We",
+          "xmin": 561,
+          "ymin": 636,
+          "xmax": 619,
+          "ymax": 669
+        },
+        {
+          "text": "Do",
+          "xmin": 627,
+          "ymin": 636,
+          "xmax": 687,
+          "ymax": 674
+        },
+        {
+          "text": ">",
+          "xmin": 731,
+          "ymin": 641,
+          "xmax": 745,
+          "ymax": 663
+        },
+        {
+          "text": "Our",
+          "xmin": 792,
+          "ymin": 636,
+          "xmax": 862,
+          "ymax": 673
+        },
+        {
+          "text": "Approach",
+          "xmin": 868,
+          "ymin": 636,
+          "xmax": 1059,
+          "ymax": 675
+        },
+        {
+          "text": ">",
+          "xmin": 1106,
+          "ymin": 641,
+          "xmax": 1118,
+          "ymax": 663
+        },
+        {
+          "text": "Core",
+          "xmin": 1168,
+          "ymin": 636,
+          "xmax": 1255,
+          "ymax": 669
+        },
+        {
+          "text": "Principles",
+          "xmin": 1271,
+          "ymin": 635,
+          "xmax": 1458,
+          "ymax": 675
+        },
+        {
+          "text": "Core",
+          "xmin": 227,
+          "ymin": 857,
+          "xmax": 439,
+          "ymax": 936
+        },
+        {
+          "text": "Principles",
+          "xmin": 467,
+          "ymin": 850,
+          "xmax": 944,
+          "ymax": 954
+        },
+        {
+          "text": "v",
+          "xmin": 299,
+          "ymin": 1329,
+          "xmax": 337,
+          "ymax": 1353
+        },
+        {
+          "text": "What",
+          "xmin": 403,
+          "ymin": 1296,
+          "xmax": 601,
+          "ymax": 1360
+        },
+        {
+          "text": "We",
+          "xmin": 617,
+          "ymin": 1302,
+          "xmax": 727,
+          "ymax": 1360
+        },
+        {
+          "text": "Do",
+          "xmin": 748,
+          "ymin": 1301,
+          "xmax": 846,
+          "ymax": 1360
+        },
+        {
+          "text": "te",
+          "xmin": 1232,
+          "ymin": 1988,
+          "xmax": 1263,
+          "ymax": 2015
+        },
+        {
+          "text": "i",
+          "xmin": 1264,
+          "ymin": 1996,
+          "xmax": 1280,
+          "ymax": 2017
+        },
+        {
+          "text": "Differentiations",
+          "xmin": 227,
+          "ymin": 2272,
+          "xmax": 844,
+          "ymax": 2342
+        },
+        {
+          "text": "Differentiating",
+          "xmin": 226,
+          "ymin": 2420,
+          "xmax": 740,
+          "ymax": 2499
+        },
+        {
+          "text": "between",
+          "xmin": 756,
+          "ymin": 2421,
+          "xmax": 1050,
+          "ymax": 2482
+        },
+        {
+          "text": "devotional",
+          "xmin": 1072,
+          "ymin": 2421,
+          "xmax": 1435,
+          "ymax": 2482
+        },
+        {
+          "text": "expression",
+          "xmin": 1455,
+          "ymin": 2423,
+          "xmax": 1826,
+          "ymax": 2496
+        },
+        {
+          "text": "and",
+          "xmin": 1848,
+          "ymin": 2421,
+          "xmax": 1975,
+          "ymax": 2482
+        },
+        {
+          "text": "the",
+          "xmin": 1993,
+          "ymin": 2421,
+          "xmax": 2104,
+          "ymax": 2482
+        },
+        {
+          "text": "study",
+          "xmin": 2125,
+          "ymin": 2421,
+          "xmax": 2315,
+          "ymax": 2499
+        },
+        {
+          "text": "ofreligion",
+          "xmin": 226,
+          "ymin": 2511,
+          "xmax": 576,
+          "ymax": 2589
+        },
+        {
+          "text": "First",
+          "xmin": 228,
+          "ymin": 2658,
+          "xmax": 335,
+          "ymax": 2701
+        },
+        {
+          "text": "and",
+          "xmin": 351,
+          "ymin": 2656,
+          "xmax": 440,
+          "ymax": 2701
+        },
+        {
+          "text": "foremost,",
+          "xmin": 458,
+          "ymin": 2656,
+          "xmax": 690,
+          "ymax": 2704
+        },
+        {
+          "text": "scholars",
+          "xmin": 712,
+          "ymin": 2656,
+          "xmax": 922,
+          "ymax": 2701
+        },
+        {
+          "text": "highlight",
+          "xmin": 941,
+          "ymin": 2656,
+          "xmax": 1153,
+          "ymax": 2709
+        },
+        {
+          "text": "the",
+          "xmin": 1168,
+          "ymin": 2656,
+          "xmax": 1245,
+          "ymax": 2701
+        },
+        {
+          "text": "difference",
+          "xmin": 1263,
+          "ymin": 2656,
+          "xmax": 1513,
+          "ymax": 2701
+        },
+        {
+          "text": "between",
+          "xmin": 1530,
+          "ymin": 2656,
+          "xmax": 1736,
+          "ymax": 2701
+        },
+        {
+          "text": "the",
+          "xmin": 1754,
+          "ymin": 2656,
+          "xmax": 1832,
+          "ymax": 2701
+        },
+        {
+          "text": "devotional",
+          "xmin": 1849,
+          "ymin": 2656,
+          "xmax": 2104,
+          "ymax": 2701
+        },
+        {
+          "text": "expression",
+          "xmin": 226,
+          "ymin": 2736,
+          "xmax": 495,
+          "ymax": 2788
+        },
+        {
+          "text": "of",
+          "xmin": 514,
+          "ymin": 2734,
+          "xmax": 563,
+          "ymax": 2777
+        },
+        {
+          "text": "particular",
+          "xmin": 579,
+          "ymin": 2734,
+          "xmax": 816,
+          "ymax": 2786
+        },
+        {
+          "text": "religious",
+          "xmin": 832,
+          "ymin": 2734,
+          "xmax": 1040,
+          "ymax": 2786
+        },
+        {
+          "text": "beliefs",
+          "xmin": 1059,
+          "ymin": 2734,
+          "xmax": 1221,
+          "ymax": 2777
+        },
+        {
+          "text": "as",
+          "xmin": 1239,
+          "ymin": 2746,
+          "xmax": 1295,
+          "ymax": 2777
+        },
+        {
+          "text": "normative",
+          "xmin": 1313,
+          "ymin": 2736,
+          "xmax": 1560,
+          "ymax": 2779
+        },
+        {
+          "text": "and",
+          "xmin": 1577,
+          "ymin": 2734,
+          "xmax": 1665,
+          "ymax": 2777
+        },
+        {
+          "text": "the",
+          "xmin": 1683,
+          "ymin": 2734,
+          "xmax": 1761,
+          "ymax": 2777
+        },
+        {
+          "text": "nonsectarian",
+          "xmin": 1779,
+          "ymin": 2736,
+          "xmax": 2100,
+          "ymax": 2779
+        },
+        {
+          "text": "study",
+          "xmin": 2118,
+          "ymin": 2734,
+          "xmax": 2253,
+          "ymax": 2787
+        },
+        {
+          "text": "of",
+          "xmin": 2268,
+          "ymin": 2734,
+          "xmax": 2319,
+          "ymax": 2779
+        },
+        {
+          "text": "religion",
+          "xmin": 227,
+          "ymin": 2812,
+          "xmax": 404,
+          "ymax": 2865
+        },
+        {
+          "text": "that",
+          "xmin": 422,
+          "ymin": 2812,
+          "xmax": 520,
+          "ymax": 2857
+        },
+        {
+          "text": "presumes",
+          "xmin": 537,
+          "ymin": 2824,
+          "xmax": 782,
+          "ymax": 2865
+        },
+        {
+          "text": "the",
+          "xmin": 797,
+          "ymin": 2812,
+          "xmax": 875,
+          "ymax": 2857
+        },
+        {
+          "text": "religious",
+          "xmin": 893,
+          "ymin": 2812,
+          "xmax": 1102,
+          "ymax": 2865
+        },
+        {
+          "text": "legitimacy",
+          "xmin": 1121,
+          "ymin": 2812,
+          "xmax": 1374,
+          "ymax": 2865
+        },
+        {
+          "text": "of",
+          "xmin": 1390,
+          "ymin": 2812,
+          "xmax": 1441,
+          "ymax": 2857
+        },
+        {
+          "text": "diverse",
+          "xmin": 1455,
+          "ymin": 2812,
+          "xmax": 1632,
+          "ymax": 2857
+        },
+        {
+          "text": "normative",
+          "xmin": 1650,
+          "ymin": 2814,
+          "xmax": 1897,
+          "ymax": 2857
+        },
+        {
+          "text": "claims.",
+          "xmin": 1914,
+          "ymin": 2812,
+          "xmax": 2089,
+          "ymax": 2857
+        },
+        {
+          "text": "The",
+          "xmin": 225,
+          "ymin": 2944,
+          "xmax": 316,
+          "ymax": 2989
+        },
+        {
+          "text": "importance",
+          "xmin": 336,
+          "ymin": 2946,
+          "xmax": 618,
+          "ymax": 2997
+        },
+        {
+          "text": "of",
+          "xmin": 635,
+          "ymin": 2944,
+          "xmax": 686,
+          "ymax": 2989
+        },
+        {
+          "text": "this",
+          "xmin": 698,
+          "ymin": 2945,
+          "xmax": 788,
+          "ymax": 2989
+        },
+        {
+          "text": "distinction",
+          "xmin": 806,
+          "ymin": 2944,
+          "xmax": 1065,
+          "ymax": 2989
+        },
+        {
+          "text": "is",
+          "xmin": 1084,
+          "ymin": 2946,
+          "xmax": 1122,
+          "ymax": 2989
+        },
+        {
+          "text": "that",
+          "xmin": 1138,
+          "ymin": 2944,
+          "xmax": 1235,
+          "ymax": 2989
+        },
+        {
+          "text": "it",
+          "xmin": 1253,
+          "ymin": 2946,
+          "xmax": 1281,
+          "ymax": 2984
+        },
+        {
+          "text": "recognizes",
+          "xmin": 1299,
+          "ymin": 2946,
+          "xmax": 1566,
+          "ymax": 2997
+        },
+        {
+          "text": "the",
+          "xmin": 1582,
+          "ymin": 2944,
+          "xmax": 1659,
+          "ymax": 2989
+        },
+        {
+          "text": "validity",
+          "xmin": 1676,
+          "ymin": 2944,
+          "xmax": 1850,
+          "ymax": 2998
+        },
+        {
+          "text": "of",
+          "xmin": 1866,
+          "ymin": 2944,
+          "xmax": 1917,
+          "ymax": 2989
+        },
+        {
+          "text": "normative",
+          "xmin": 1933,
+          "ymin": 2946,
+          "xmax": 2180,
+          "ymax": 2989
+        },
+        {
+          "text": "theological",
+          "xmin": 224,
+          "ymin": 3022,
+          "xmax": 497,
+          "ymax": 3075
+        },
+        {
+          "text": "assertions",
+          "xmin": 516,
+          "ymin": 3024,
+          "xmax": 775,
+          "ymax": 3065
+        },
+        {
+          "text": "without",
+          "xmin": 792,
+          "ymin": 3023,
+          "xmax": 978,
+          "ymax": 3065
+        },
+        {
+          "text": "equating",
+          "xmin": 994,
+          "ymin": 3024,
+          "xmax": 1207,
+          "ymax": 3077
+        },
+        {
+          "text": "them",
+          "xmin": 1224,
+          "ymin": 3022,
+          "xmax": 1347,
+          "ymax": 3065
+        },
+        {
+          "text": "with",
+          "xmin": 1368,
+          "ymin": 3023,
+          "xmax": 1470,
+          "ymax": 3065
+        },
+        {
+          "text": "universal",
+          "xmin": 1489,
+          "ymin": 3022,
+          "xmax": 1708,
+          "ymax": 3065
+        },
+        {
+          "text": "truths",
+          "xmin": 1725,
+          "ymin": 3022,
+          "xmax": 1870,
+          "ymax": 3065
+        },
+        {
+          "text": "about",
+          "xmin": 1887,
+          "ymin": 3022,
+          "xmax": 2029,
+          "ymax": 3065
+        },
+        {
+          "text": "the",
+          "xmin": 2043,
+          "ymin": 3022,
+          "xmax": 2121,
+          "ymax": 3065
+        },
+        {
+          "text": "tradition",
+          "xmin": 224,
+          "ymin": 3100,
+          "xmax": 429,
+          "ymax": 3145
+        },
+        {
+          "text": "itself.",
+          "xmin": 450,
+          "ymin": 3100,
+          "xmax": 582,
+          "ymax": 3145
+        },
+        {
+          "text": "Unfortunately,",
+          "xmin": 227,
+          "ymin": 3228,
+          "xmax": 570,
+          "ymax": 3280
+        },
+        {
+          "text": "this",
+          "xmin": 585,
+          "ymin": 3228,
+          "xmax": 676,
+          "ymax": 3273
+        },
+        {
+          "text": "distinction",
+          "xmin": 693,
+          "ymin": 3228,
+          "xmax": 952,
+          "ymax": 3273
+        },
+        {
+          "text": "is",
+          "xmin": 971,
+          "ymin": 3230,
+          "xmax": 1008,
+          "ymax": 3272
+        },
+        {
+          "text": "often",
+          "xmin": 1026,
+          "ymin": 3228,
+          "xmax": 1152,
+          "ymax": 3273
+        },
+        {
+          "text": "ignored",
+          "xmin": 1172,
+          "ymin": 3228,
+          "xmax": 1355,
+          "ymax": 3281
+        },
+        {
+          "text": "in",
+          "xmin": 1377,
+          "ymin": 3230,
+          "xmax": 1411,
+          "ymax": 3269
+        },
+        {
+          "text": "public",
+          "xmin": 1433,
+          "ymin": 3228,
+          "xmax": 1580,
+          "ymax": 3279
+        },
+        {
+          "text": "discourse",
+          "xmin": 1597,
+          "ymin": 3228,
+          "xmax": 1839,
+          "ymax": 3273
+        },
+        {
+          "text": "about",
+          "xmin": 1856,
+          "ymin": 3228,
+          "xmax": 1997,
+          "ymax": 3273
+        },
+        {
+          "text": "religion.",
+          "xmin": 2015,
+          "ymin": 3228,
+          "xmax": 2202,
+          "ymax": 3279
+        },
+        {
+          "text": "For",
+          "xmin": 2229,
+          "ymin": 3232,
+          "xmax": 2306,
+          "ymax": 3273
+        }
+      ],
+      "raw_text": "HARVARD DIVINITY SCHOOL Religion and Public Life Menu Home > What We Do > Our Approach > Core Principles Core Principles v What We Do te i Differentiations Differentiating between devotional expression and the study ofreligion First and foremost, scholars highlight the difference between the devotional expression of particular religious beliefs as normative and the nonsectarian study of religion that presumes the religious legitimacy of diverse normative claims. The importance of this distinction is that it recognizes the validity of normative theological assertions without equating them with universal truths about the tradition itself. Unfortunately, this distinction is often ignored in public discourse about religion. For "
+    },
+    {
+      "page": 1,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/c3700a7f-eb02-41bf-b63a-3801721c243b-2.jpeg?ik-s=562cc90131c061f160986195f0785518f54ba98a&ik-t=1747195778",
+      "size": {
+        "width": 2479,
+        "height": 3508
+      },
+      "words": [
+        {
+          "text": "example",
+          "xmin": 226,
+          "ymin": 159,
+          "xmax": 436,
+          "ymax": 210
+        },
+        {
+          "text": "I",
+          "xmin": 435,
+          "ymin": 180,
+          "xmax": 442,
+          "ymax": 204
+        },
+        {
+          "text": "there",
+          "xmin": 462,
+          "ymin": 159,
+          "xmax": 588,
+          "ymax": 204
+        },
+        {
+          "text": "is",
+          "xmin": 607,
+          "ymin": 161,
+          "xmax": 644,
+          "ymax": 203
+        },
+        {
+          "text": "a",
+          "xmin": 663,
+          "ymin": 171,
+          "xmax": 686,
+          "ymax": 201
+        },
+        {
+          "text": "great",
+          "xmin": 707,
+          "ymin": 165,
+          "xmax": 833,
+          "ymax": 213
+        },
+        {
+          "text": "deal",
+          "xmin": 850,
+          "ymin": 159,
+          "xmax": 951,
+          "ymax": 204
+        },
+        {
+          "text": "of",
+          "xmin": 969,
+          "ymin": 159,
+          "xmax": 1020,
+          "ymax": 204
+        },
+        {
+          "text": "contemporary",
+          "xmin": 1035,
+          "ymin": 165,
+          "xmax": 1380,
+          "ymax": 214
+        },
+        {
+          "text": "debate",
+          "xmin": 1397,
+          "ymin": 159,
+          "xmax": 1566,
+          "ymax": 204
+        },
+        {
+          "text": "about",
+          "xmin": 1583,
+          "ymin": 159,
+          "xmax": 1724,
+          "ymax": 204
+        },
+        {
+          "text": "the",
+          "xmin": 1739,
+          "ymin": 159,
+          "xmax": 1816,
+          "ymax": 204
+        },
+        {
+          "text": "roles",
+          "xmin": 1835,
+          "ymin": 159,
+          "xmax": 1953,
+          "ymax": 204
+        },
+        {
+          "text": "for",
+          "xmin": 1970,
+          "ymin": 159,
+          "xmax": 2041,
+          "ymax": 204
+        },
+        {
+          "text": "women",
+          "xmin": 2055,
+          "ymin": 171,
+          "xmax": 2235,
+          "ymax": 204
+        },
+        {
+          "text": "in",
+          "xmin": 2256,
+          "ymin": 161,
+          "xmax": 2292,
+          "ymax": 201
+        },
+        {
+          "text": "Islam",
+          "xmin": 229,
+          "ymin": 237,
+          "xmax": 366,
+          "ymax": 281
+        },
+        {
+          "text": "In",
+          "xmin": 396,
+          "ymin": 240,
+          "xmax": 433,
+          "ymax": 279
+        },
+        {
+          "text": "truth",
+          "xmin": 451,
+          "ymin": 237,
+          "xmax": 567,
+          "ymax": 281
+        },
+        {
+          "text": "I",
+          "xmin": 567,
+          "ymin": 260,
+          "xmax": 567,
+          "ymax": 270
+        },
+        {
+          "text": "there",
+          "xmin": 594,
+          "ymin": 237,
+          "xmax": 721,
+          "ymax": 281
+        },
+        {
+          "text": "are",
+          "xmin": 738,
+          "ymin": 249,
+          "xmax": 812,
+          "ymax": 281
+        },
+        {
+          "text": "a",
+          "xmin": 831,
+          "ymin": 249,
+          "xmax": 854,
+          "ymax": 278
+        },
+        {
+          "text": "variety",
+          "xmin": 874,
+          "ymin": 240,
+          "xmax": 1038,
+          "ymax": 289
+        },
+        {
+          "text": "of",
+          "xmin": 1054,
+          "ymin": 237,
+          "xmax": 1105,
+          "ymax": 282
+        },
+        {
+          "text": "theological",
+          "xmin": 1117,
+          "ymin": 237,
+          "xmax": 1391,
+          "ymax": 290
+        },
+        {
+          "text": "interpretations",
+          "xmin": 1411,
+          "ymin": 239,
+          "xmax": 1772,
+          "ymax": 289
+        },
+        {
+          "text": "of",
+          "xmin": 1789,
+          "ymin": 237,
+          "xmax": 1840,
+          "ymax": 281
+        },
+        {
+          "text": "the",
+          "xmin": 1852,
+          "ymin": 237,
+          "xmax": 1931,
+          "ymax": 281
+        },
+        {
+          "text": "tradition",
+          "xmin": 1945,
+          "ymin": 237,
+          "xmax": 2150,
+          "ymax": 281
+        },
+        {
+          "text": "that",
+          "xmin": 2167,
+          "ymin": 237,
+          "xmax": 2265,
+          "ymax": 281
+        },
+        {
+          "text": "lead",
+          "xmin": 228,
+          "ymin": 319,
+          "xmax": 327,
+          "ymax": 363
+        },
+        {
+          "text": "to",
+          "xmin": 344,
+          "ymin": 325,
+          "xmax": 393,
+          "ymax": 363
+        },
+        {
+          "text": "different,",
+          "xmin": 410,
+          "ymin": 319,
+          "xmax": 629,
+          "ymax": 366
+        },
+        {
+          "text": "sometimes",
+          "xmin": 646,
+          "ymin": 321,
+          "xmax": 924,
+          "ymax": 364
+        },
+        {
+          "text": "antithetical",
+          "xmin": 942,
+          "ymin": 319,
+          "xmax": 1215,
+          "ymax": 363
+        },
+        {
+          "text": "practices",
+          "xmin": 1234,
+          "ymin": 321,
+          "xmax": 1460,
+          "ymax": 369
+        },
+        {
+          "text": "and",
+          "xmin": 1478,
+          "ymin": 319,
+          "xmax": 1566,
+          "ymax": 363
+        },
+        {
+          "text": "assertions.",
+          "xmin": 1585,
+          "ymin": 321,
+          "xmax": 1851,
+          "ymax": 363
+        },
+        {
+          "text": "|",
+          "xmin": 1850,
+          "ymin": 356,
+          "xmax": 1854,
+          "ymax": 358
+        },
+        {
+          "text": "Equally",
+          "xmin": 1879,
+          "ymin": 319,
+          "xmax": 2054,
+          "ymax": 372
+        },
+        {
+          "text": "common",
+          "xmin": 2070,
+          "ymin": 331,
+          "xmax": 2287,
+          "ymax": 364
+        },
+        {
+          "text": "is",
+          "xmin": 227,
+          "ymin": 399,
+          "xmax": 263,
+          "ymax": 441
+        },
+        {
+          "text": "that",
+          "xmin": 281,
+          "ymin": 397,
+          "xmax": 379,
+          "ymax": 442
+        },
+        {
+          "text": "differing",
+          "xmin": 395,
+          "ymin": 397,
+          "xmax": 599,
+          "ymax": 451
+        },
+        {
+          "text": "communities",
+          "xmin": 618,
+          "ymin": 399,
+          "xmax": 941,
+          "ymax": 442
+        },
+        {
+          "text": "will",
+          "xmin": 959,
+          "ymin": 397,
+          "xmax": 1037,
+          "ymax": 441
+        },
+        {
+          "text": "have",
+          "xmin": 1057,
+          "ymin": 397,
+          "xmax": 1171,
+          "ymax": 442
+        },
+        {
+          "text": "similar",
+          "xmin": 1188,
+          "ymin": 397,
+          "xmax": 1356,
+          "ymax": 442
+        },
+        {
+          "text": "practices",
+          "xmin": 1372,
+          "ymin": 399,
+          "xmax": 1597,
+          "ymax": 448
+        },
+        {
+          "text": "but",
+          "xmin": 1616,
+          "ymin": 397,
+          "xmax": 1693,
+          "ymax": 442
+        },
+        {
+          "text": "with",
+          "xmin": 1710,
+          "ymin": 397,
+          "xmax": 1810,
+          "ymax": 440
+        },
+        {
+          "text": "diverse",
+          "xmin": 1829,
+          "ymin": 397,
+          "xmax": 2006,
+          "ymax": 442
+        },
+        {
+          "text": "theological",
+          "xmin": 2021,
+          "ymin": 397,
+          "xmax": 2294,
+          "ymax": 448
+        },
+        {
+          "text": "justifications",
+          "xmin": 227,
+          "ymin": 475,
+          "xmax": 550,
+          "ymax": 522
+        },
+        {
+          "text": "It",
+          "xmin": 230,
+          "ymin": 606,
+          "xmax": 256,
+          "ymax": 643
+        },
+        {
+          "text": "is",
+          "xmin": 275,
+          "ymin": 605,
+          "xmax": 312,
+          "ymax": 647
+        },
+        {
+          "text": "appropriate",
+          "xmin": 330,
+          "ymin": 605,
+          "xmax": 615,
+          "ymax": 656
+        },
+        {
+          "text": "for",
+          "xmin": 631,
+          "ymin": 603,
+          "xmax": 701,
+          "ymax": 648
+        },
+        {
+          "text": "members",
+          "xmin": 717,
+          "ymin": 604,
+          "xmax": 949,
+          "ymax": 648
+        },
+        {
+          "text": "of",
+          "xmin": 968,
+          "ymin": 603,
+          "xmax": 1019,
+          "ymax": 648
+        },
+        {
+          "text": "a",
+          "xmin": 1034,
+          "ymin": 615,
+          "xmax": 1056,
+          "ymax": 645
+        },
+        {
+          "text": "particular",
+          "xmin": 1080,
+          "ymin": 603,
+          "xmax": 1316,
+          "ymax": 654
+        },
+        {
+          "text": "community",
+          "xmin": 1331,
+          "ymin": 605,
+          "xmax": 1609,
+          "ymax": 657
+        },
+        {
+          "text": "to",
+          "xmin": 1624,
+          "ymin": 609,
+          "xmax": 1673,
+          "ymax": 648
+        },
+        {
+          "text": "assert",
+          "xmin": 1690,
+          "ymin": 609,
+          "xmax": 1845,
+          "ymax": 648
+        },
+        {
+          "text": "the",
+          "xmin": 1859,
+          "ymin": 603,
+          "xmax": 1936,
+          "ymax": 648
+        },
+        {
+          "text": "orthodoxy",
+          "xmin": 1954,
+          "ymin": 603,
+          "xmax": 2204,
+          "ymax": 657
+        },
+        {
+          "text": "(or",
+          "xmin": 2221,
+          "ymin": 601,
+          "xmax": 2289,
+          "ymax": 648
+        },
+        {
+          "text": "orthopraxy",
+          "xmin": 226,
+          "ymin": 681,
+          "xmax": 492,
+          "ymax": 733
+        },
+        {
+          "text": "7)",
+          "xmin": 491,
+          "ymin": 683,
+          "xmax": 507,
+          "ymax": 726
+        },
+        {
+          "text": "of",
+          "xmin": 528,
+          "ymin": 681,
+          "xmax": 578,
+          "ymax": 726
+        },
+        {
+          "text": "their",
+          "xmin": 592,
+          "ymin": 681,
+          "xmax": 705,
+          "ymax": 725
+        },
+        {
+          "text": "theological",
+          "xmin": 718,
+          "ymin": 681,
+          "xmax": 991,
+          "ymax": 736
+        },
+        {
+          "text": "interpretations",
+          "xmin": 1011,
+          "ymin": 683,
+          "xmax": 1371,
+          "ymax": 730
+        },
+        {
+          "text": "of",
+          "xmin": 1389,
+          "ymin": 681,
+          "xmax": 1440,
+          "ymax": 726
+        },
+        {
+          "text": "the",
+          "xmin": 1452,
+          "ymin": 681,
+          "xmax": 1531,
+          "ymax": 725
+        },
+        {
+          "text": "tradition",
+          "xmin": 1547,
+          "ymin": 681,
+          "xmax": 1750,
+          "ymax": 726
+        },
+        {
+          "text": "|",
+          "xmin": 1751,
+          "ymin": 704,
+          "xmax": 1758,
+          "ymax": 719
+        },
+        {
+          "text": "but",
+          "xmin": 1781,
+          "ymin": 681,
+          "xmax": 1859,
+          "ymax": 725
+        },
+        {
+          "text": "it",
+          "xmin": 1876,
+          "ymin": 684,
+          "xmax": 1905,
+          "ymax": 723
+        },
+        {
+          "text": "is",
+          "xmin": 1923,
+          "ymin": 683,
+          "xmax": 1960,
+          "ymax": 725
+        },
+        {
+          "text": "important",
+          "xmin": 1979,
+          "ymin": 683,
+          "xmax": 2220,
+          "ymax": 733
+        },
+        {
+          "text": "to",
+          "xmin": 2235,
+          "ymin": 687,
+          "xmax": 2281,
+          "ymax": 725
+        },
+        {
+          "text": "recognize",
+          "xmin": 227,
+          "ymin": 764,
+          "xmax": 467,
+          "ymax": 815
+        },
+        {
+          "text": "the",
+          "xmin": 481,
+          "ymin": 762,
+          "xmax": 560,
+          "ymax": 807
+        },
+        {
+          "text": "difference",
+          "xmin": 577,
+          "ymin": 762,
+          "xmax": 826,
+          "ymax": 807
+        },
+        {
+          "text": "between",
+          "xmin": 844,
+          "ymin": 763,
+          "xmax": 1051,
+          "ymax": 807
+        },
+        {
+          "text": "a",
+          "xmin": 1070,
+          "ymin": 774,
+          "xmax": 1095,
+          "ymax": 804
+        },
+        {
+          "text": "theological",
+          "xmin": 1112,
+          "ymin": 762,
+          "xmax": 1386,
+          "ymax": 817
+        },
+        {
+          "text": "assertion",
+          "xmin": 1404,
+          "ymin": 764,
+          "xmax": 1632,
+          "ymax": 807
+        },
+        {
+          "text": "of",
+          "xmin": 1652,
+          "ymin": 762,
+          "xmax": 1703,
+          "ymax": 807
+        },
+        {
+          "text": "normativity",
+          "xmin": 1719,
+          "ymin": 764,
+          "xmax": 1995,
+          "ymax": 816
+        },
+        {
+          "text": "and",
+          "xmin": 2012,
+          "ymin": 762,
+          "xmax": 2101,
+          "ymax": 807
+        },
+        {
+          "text": "the",
+          "xmin": 2117,
+          "ymin": 762,
+          "xmax": 2195,
+          "ymax": 807
+        },
+        {
+          "text": "factual",
+          "xmin": 226,
+          "ymin": 840,
+          "xmax": 395,
+          "ymax": 885
+        },
+        {
+          "text": "truth",
+          "xmin": 411,
+          "ymin": 840,
+          "xmax": 525,
+          "ymax": 884
+        },
+        {
+          "text": "that",
+          "xmin": 543,
+          "ymin": 840,
+          "xmax": 641,
+          "ymax": 884
+        },
+        {
+          "text": "multiple",
+          "xmin": 658,
+          "ymin": 840,
+          "xmax": 856,
+          "ymax": 892
+        },
+        {
+          "text": "legitimate",
+          "xmin": 875,
+          "ymin": 840,
+          "xmax": 1119,
+          "ymax": 892
+        },
+        {
+          "text": "perspectives",
+          "xmin": 1136,
+          "ymin": 843,
+          "xmax": 1450,
+          "ymax": 892
+        },
+        {
+          "text": "exist.",
+          "xmin": 1468,
+          "ymin": 842,
+          "xmax": 1596,
+          "ymax": 884
+        },
+        {
+          "text": "The",
+          "xmin": 1613,
+          "ymin": 840,
+          "xmax": 1706,
+          "ymax": 884
+        },
+        {
+          "text": "latter",
+          "xmin": 1724,
+          "ymin": 840,
+          "xmax": 1851,
+          "ymax": 884
+        },
+        {
+          "text": "represents",
+          "xmin": 1867,
+          "ymin": 846,
+          "xmax": 2128,
+          "ymax": 894
+        },
+        {
+          "text": "the",
+          "xmin": 2144,
+          "ymin": 840,
+          "xmax": 2221,
+          "ymax": 884
+        },
+        {
+          "text": "nonsectarian",
+          "xmin": 227,
+          "ymin": 921,
+          "xmax": 547,
+          "ymax": 963
+        },
+        {
+          "text": "study",
+          "xmin": 566,
+          "ymin": 919,
+          "xmax": 701,
+          "ymax": 973
+        },
+        {
+          "text": "of",
+          "xmin": 717,
+          "ymin": 919,
+          "xmax": 768,
+          "ymax": 964
+        },
+        {
+          "text": "religion",
+          "xmin": 783,
+          "ymin": 919,
+          "xmax": 962,
+          "ymax": 971
+        },
+        {
+          "text": "I",
+          "xmin": 964,
+          "ymin": 931,
+          "xmax": 972,
+          "ymax": 956
+        },
+        {
+          "text": "This",
+          "xmin": 993,
+          "ymin": 919,
+          "xmax": 1097,
+          "ymax": 963
+        },
+        {
+          "text": "is",
+          "xmin": 1116,
+          "ymin": 922,
+          "xmax": 1155,
+          "ymax": 963
+        },
+        {
+          "text": "the",
+          "xmin": 1170,
+          "ymin": 919,
+          "xmax": 1247,
+          "ymax": 963
+        },
+        {
+          "text": "approach",
+          "xmin": 1265,
+          "ymin": 920,
+          "xmax": 1496,
+          "ymax": 975
+        },
+        {
+          "text": "promoted",
+          "xmin": 1515,
+          "ymin": 920,
+          "xmax": 1753,
+          "ymax": 969
+        },
+        {
+          "text": "here",
+          "xmin": 1773,
+          "ymin": 919,
+          "xmax": 1878,
+          "ymax": 963
+        },
+        {
+          "text": "and",
+          "xmin": 1895,
+          "ymin": 919,
+          "xmax": 1983,
+          "ymax": 963
+        },
+        {
+          "text": "the",
+          "xmin": 2000,
+          "ymin": 920,
+          "xmax": 2079,
+          "ymax": 963
+        },
+        {
+          "text": "one",
+          "xmin": 2095,
+          "ymin": 931,
+          "xmax": 2186,
+          "ymax": 963
+        },
+        {
+          "text": "most",
+          "xmin": 227,
+          "ymin": 1003,
+          "xmax": 351,
+          "ymax": 1042
+        },
+        {
+          "text": "appropriate",
+          "xmin": 370,
+          "ymin": 999,
+          "xmax": 653,
+          "ymax": 1048
+        },
+        {
+          "text": "to",
+          "xmin": 668,
+          "ymin": 1003,
+          "xmax": 717,
+          "ymax": 1042
+        },
+        {
+          "text": "advance",
+          "xmin": 735,
+          "ymin": 997,
+          "xmax": 941,
+          "ymax": 1042
+        },
+        {
+          "text": "the",
+          "xmin": 956,
+          "ymin": 997,
+          "xmax": 1035,
+          "ymax": 1042
+        },
+        {
+          "text": "public",
+          "xmin": 1052,
+          "ymin": 997,
+          "xmax": 1200,
+          "ymax": 1049
+        },
+        {
+          "text": "understanding",
+          "xmin": 1217,
+          "ymin": 997,
+          "xmax": 1572,
+          "ymax": 1051
+        },
+        {
+          "text": "of",
+          "xmin": 1590,
+          "ymin": 997,
+          "xmax": 1640,
+          "ymax": 1040
+        },
+        {
+          "text": "religion.",
+          "xmin": 1657,
+          "ymin": 997,
+          "xmax": 1844,
+          "ymax": 1050
+        },
+        {
+          "text": "/",
+          "xmin": 1838,
+          "ymin": 1014,
+          "xmax": 1847,
+          "ymax": 1033
+        },
+        {
+          "text": "There",
+          "xmin": 225,
+          "ymin": 1125,
+          "xmax": 366,
+          "ymax": 1169
+        },
+        {
+          "text": "are",
+          "xmin": 383,
+          "ymin": 1137,
+          "xmax": 459,
+          "ymax": 1169
+        },
+        {
+          "text": "three",
+          "xmin": 474,
+          "ymin": 1125,
+          "xmax": 599,
+          "ymax": 1170
+        },
+        {
+          "text": "other",
+          "xmin": 617,
+          "ymin": 1125,
+          "xmax": 746,
+          "ymax": 1169
+        },
+        {
+          "text": "central",
+          "xmin": 761,
+          "ymin": 1125,
+          "xmax": 928,
+          "ymax": 1169
+        },
+        {
+          "text": "assertions",
+          "xmin": 947,
+          "ymin": 1127,
+          "xmax": 1206,
+          "ymax": 1169
+        },
+        {
+          "text": "about",
+          "xmin": 1225,
+          "ymin": 1125,
+          "xmax": 1365,
+          "ymax": 1169
+        },
+        {
+          "text": "religions",
+          "xmin": 1382,
+          "ymin": 1125,
+          "xmax": 1590,
+          "ymax": 1177
+        },
+        {
+          "text": "themselves",
+          "xmin": 1606,
+          "ymin": 1125,
+          "xmax": 1892,
+          "ymax": 1169
+        },
+        {
+          "text": "that",
+          "xmin": 1907,
+          "ymin": 1125,
+          "xmax": 2005,
+          "ymax": 1169
+        },
+        {
+          "text": "religious",
+          "xmin": 2022,
+          "ymin": 1125,
+          "xmax": 2230,
+          "ymax": 1179
+        },
+        {
+          "text": "studies",
+          "xmin": 226,
+          "ymin": 1207,
+          "xmax": 406,
+          "ymax": 1251
+        },
+        {
+          "text": "scholars",
+          "xmin": 424,
+          "ymin": 1206,
+          "xmax": 634,
+          "ymax": 1251
+        },
+        {
+          "text": "have",
+          "xmin": 652,
+          "ymin": 1207,
+          "xmax": 766,
+          "ymax": 1251
+        },
+        {
+          "text": "outlined",
+          "xmin": 782,
+          "ymin": 1206,
+          "xmax": 979,
+          "ymax": 1251
+        },
+        {
+          "text": "and",
+          "xmin": 998,
+          "ymin": 1206,
+          "xmax": 1086,
+          "ymax": 1251
+        },
+        {
+          "text": "that",
+          "xmin": 1103,
+          "ymin": 1206,
+          "xmax": 1201,
+          "ymax": 1251
+        },
+        {
+          "text": "flow",
+          "xmin": 1216,
+          "ymin": 1206,
+          "xmax": 1319,
+          "ymax": 1251
+        },
+        {
+          "text": "from",
+          "xmin": 1337,
+          "ymin": 1206,
+          "xmax": 1451,
+          "ymax": 1251
+        },
+        {
+          "text": "the",
+          "xmin": 1469,
+          "ymin": 1206,
+          "xmax": 1547,
+          "ymax": 1251
+        },
+        {
+          "text": "recognition",
+          "xmin": 1565,
+          "ymin": 1208,
+          "xmax": 1841,
+          "ymax": 1262
+        },
+        {
+          "text": "of",
+          "xmin": 1860,
+          "ymin": 1206,
+          "xmax": 1911,
+          "ymax": 1251
+        },
+        {
+          "text": "the",
+          "xmin": 1923,
+          "ymin": 1206,
+          "xmax": 2002,
+          "ymax": 1251
+        },
+        {
+          "text": "distinction",
+          "xmin": 2018,
+          "ymin": 1206,
+          "xmax": 2276,
+          "ymax": 1251
+        },
+        {
+          "text": "between",
+          "xmin": 227,
+          "ymin": 1284,
+          "xmax": 434,
+          "ymax": 1328
+        },
+        {
+          "text": "devotional",
+          "xmin": 453,
+          "ymin": 1284,
+          "xmax": 707,
+          "ymax": 1328
+        },
+        {
+          "text": "expression",
+          "xmin": 726,
+          "ymin": 1286,
+          "xmax": 993,
+          "ymax": 1333
+        },
+        {
+          "text": "and",
+          "xmin": 1013,
+          "ymin": 1284,
+          "xmax": 1100,
+          "ymax": 1328
+        },
+        {
+          "text": "the",
+          "xmin": 1118,
+          "ymin": 1284,
+          "xmax": 1196,
+          "ymax": 1328
+        },
+        {
+          "text": "nonsectarian",
+          "xmin": 1214,
+          "ymin": 1287,
+          "xmax": 1533,
+          "ymax": 1329
+        },
+        {
+          "text": "study",
+          "xmin": 1553,
+          "ymin": 1284,
+          "xmax": 1688,
+          "ymax": 1337
+        },
+        {
+          "text": "of",
+          "xmin": 1704,
+          "ymin": 1284,
+          "xmax": 1755,
+          "ymax": 1329
+        },
+        {
+          "text": "religion",
+          "xmin": 1771,
+          "ymin": 1284,
+          "xmax": 1950,
+          "ymax": 1336
+        },
+        {
+          "text": "outlined",
+          "xmin": 1968,
+          "ymin": 1284,
+          "xmax": 2163,
+          "ymax": 1328
+        },
+        {
+          "text": "above",
+          "xmin": 226,
+          "ymin": 1362,
+          "xmax": 371,
+          "ymax": 1407
+        },
+        {
+          "text": "1.",
+          "xmin": 243,
+          "ymin": 1493,
+          "xmax": 281,
+          "ymax": 1529
+        },
+        {
+          "text": "religions",
+          "xmin": 302,
+          "ymin": 1490,
+          "xmax": 511,
+          "ymax": 1541
+        },
+        {
+          "text": "are",
+          "xmin": 528,
+          "ymin": 1502,
+          "xmax": 603,
+          "ymax": 1533
+        },
+        {
+          "text": "internally",
+          "xmin": 623,
+          "ymin": 1490,
+          "xmax": 847,
+          "ymax": 1545
+        },
+        {
+          "text": "diverse",
+          "xmin": 863,
+          "ymin": 1490,
+          "xmax": 1040,
+          "ymax": 1533
+        },
+        {
+          "text": "as",
+          "xmin": 1057,
+          "ymin": 1502,
+          "xmax": 1111,
+          "ymax": 1533
+        },
+        {
+          "text": "opposed",
+          "xmin": 1130,
+          "ymin": 1490,
+          "xmax": 1343,
+          "ymax": 1545
+        },
+        {
+          "text": "to",
+          "xmin": 1360,
+          "ymin": 1496,
+          "xmax": 1407,
+          "ymax": 1535
+        },
+        {
+          "text": "uniform",
+          "xmin": 1427,
+          "ymin": 1490,
+          "xmax": 1613,
+          "ymax": 1533
+        },
+        {
+          "text": "|",
+          "xmin": 1623,
+          "ymin": 1503,
+          "xmax": 1626,
+          "ymax": 1510
+        },
+        {
+          "text": "2.",
+          "xmin": 241,
+          "ymin": 1608,
+          "xmax": 282,
+          "ymax": 1648
+        },
+        {
+          "text": "religions",
+          "xmin": 302,
+          "ymin": 1606,
+          "xmax": 511,
+          "ymax": 1661
+        },
+        {
+          "text": "evolve",
+          "xmin": 528,
+          "ymin": 1606,
+          "xmax": 684,
+          "ymax": 1651
+        },
+        {
+          "text": "and",
+          "xmin": 701,
+          "ymin": 1606,
+          "xmax": 790,
+          "ymax": 1651
+        },
+        {
+          "text": "change",
+          "xmin": 808,
+          "ymin": 1606,
+          "xmax": 989,
+          "ymax": 1661
+        },
+        {
+          "text": "over",
+          "xmin": 1006,
+          "ymin": 1618,
+          "xmax": 1111,
+          "ymax": 1651
+        },
+        {
+          "text": "time",
+          "xmin": 1125,
+          "ymin": 1608,
+          "xmax": 1235,
+          "ymax": 1651
+        },
+        {
+          "text": "as",
+          "xmin": 1252,
+          "ymin": 1618,
+          "xmax": 1309,
+          "ymax": 1651
+        },
+        {
+          "text": "opposed",
+          "xmin": 1326,
+          "ymin": 1607,
+          "xmax": 1539,
+          "ymax": 1661
+        },
+        {
+          "text": "to",
+          "xmin": 1556,
+          "ymin": 1612,
+          "xmax": 1605,
+          "ymax": 1651
+        },
+        {
+          "text": "being",
+          "xmin": 1623,
+          "ymin": 1606,
+          "xmax": 1755,
+          "ymax": 1660
+        },
+        {
+          "text": "ahistorical",
+          "xmin": 1773,
+          "ymin": 1606,
+          "xmax": 2029,
+          "ymax": 1651
+        },
+        {
+          "text": "and",
+          "xmin": 2048,
+          "ymin": 1606,
+          "xmax": 2136,
+          "ymax": 1651
+        },
+        {
+          "text": "static",
+          "xmin": 2156,
+          "ymin": 1608,
+          "xmax": 2291,
+          "ymax": 1651
+        },
+        {
+          "text": ":",
+          "xmin": 2291,
+          "ymin": 1619,
+          "xmax": 2298,
+          "ymax": 1648
+        },
+        {
+          "text": "3.",
+          "xmin": 241,
+          "ymin": 1724,
+          "xmax": 282,
+          "ymax": 1766
+        },
+        {
+          "text": "religious",
+          "xmin": 302,
+          "ymin": 1722,
+          "xmax": 511,
+          "ymax": 1776
+        },
+        {
+          "text": "influences",
+          "xmin": 530,
+          "ymin": 1722,
+          "xmax": 781,
+          "ymax": 1766
+        },
+        {
+          "text": "are",
+          "xmin": 799,
+          "ymin": 1734,
+          "xmax": 875,
+          "ymax": 1766
+        },
+        {
+          "text": "embedded",
+          "xmin": 892,
+          "ymin": 1722,
+          "xmax": 1152,
+          "ymax": 1766
+        },
+        {
+          "text": "in",
+          "xmin": 1172,
+          "ymin": 1725,
+          "xmax": 1208,
+          "ymax": 1765
+        },
+        {
+          "text": "all",
+          "xmin": 1230,
+          "ymin": 1722,
+          "xmax": 1283,
+          "ymax": 1766
+        },
+        {
+          "text": "dimensions",
+          "xmin": 1302,
+          "ymin": 1722,
+          "xmax": 1588,
+          "ymax": 1766
+        },
+        {
+          "text": "of",
+          "xmin": 1606,
+          "ymin": 1722,
+          "xmax": 1657,
+          "ymax": 1767
+        },
+        {
+          "text": "culture",
+          "xmin": 1672,
+          "ymin": 1722,
+          "xmax": 1840,
+          "ymax": 1766
+        },
+        {
+          "text": "as",
+          "xmin": 1858,
+          "ymin": 1734,
+          "xmax": 1913,
+          "ymax": 1766
+        },
+        {
+          "text": "opposed",
+          "xmin": 1931,
+          "ymin": 1722,
+          "xmax": 2145,
+          "ymax": 1777
+        },
+        {
+          "text": "to",
+          "xmin": 2161,
+          "ymin": 1728,
+          "xmax": 2207,
+          "ymax": 1766
+        },
+        {
+          "text": "the",
+          "xmin": 2225,
+          "ymin": 1722,
+          "xmax": 2303,
+          "ymax": 1766
+        },
+        {
+          "text": "assumption",
+          "xmin": 301,
+          "ymin": 1806,
+          "xmax": 593,
+          "ymax": 1854
+        },
+        {
+          "text": "that",
+          "xmin": 609,
+          "ymin": 1804,
+          "xmax": 707,
+          "ymax": 1848
+        },
+        {
+          "text": "religions",
+          "xmin": 724,
+          "ymin": 1803,
+          "xmax": 933,
+          "ymax": 1855
+        },
+        {
+          "text": "function",
+          "xmin": 949,
+          "ymin": 1803,
+          "xmax": 1152,
+          "ymax": 1848
+        },
+        {
+          "text": "in",
+          "xmin": 1171,
+          "ymin": 1805,
+          "xmax": 1210,
+          "ymax": 1847
+        },
+        {
+          "text": "discrete",
+          "xmin": 1229,
+          "ymin": 1803,
+          "xmax": 1430,
+          "ymax": 1852
+        },
+        {
+          "text": "2",
+          "xmin": 1423,
+          "ymin": 1819,
+          "xmax": 1436,
+          "ymax": 1847
+        },
+        {
+          "text": "isolated",
+          "xmin": 1456,
+          "ymin": 1803,
+          "xmax": 1648,
+          "ymax": 1848
+        },
+        {
+          "text": "|",
+          "xmin": 1649,
+          "ymin": 1817,
+          "xmax": 1657,
+          "ymax": 1846
+        },
+        {
+          "text": "\"private",
+          "xmin": 1679,
+          "ymin": 1803,
+          "xmax": 1865,
+          "ymax": 1857
+        },
+        {
+          "text": "contexts.",
+          "xmin": 1902,
+          "ymin": 1809,
+          "xmax": 2128,
+          "ymax": 1848
+        },
+        {
+          "text": "Religions",
+          "xmin": 227,
+          "ymin": 1930,
+          "xmax": 588,
+          "ymax": 2016
+        },
+        {
+          "text": "are",
+          "xmin": 610,
+          "ymin": 1950,
+          "xmax": 728,
+          "ymax": 1998
+        },
+        {
+          "text": "internally",
+          "xmin": 752,
+          "ymin": 1929,
+          "xmax": 1130,
+          "ymax": 2013
+        },
+        {
+          "text": "diverse",
+          "xmin": 1152,
+          "ymin": 1929,
+          "xmax": 1429,
+          "ymax": 1998
+        },
+        {
+          "text": "This",
+          "xmin": 225,
+          "ymin": 2081,
+          "xmax": 330,
+          "ymax": 2126
+        },
+        {
+          "text": "assertion",
+          "xmin": 347,
+          "ymin": 2083,
+          "xmax": 577,
+          "ymax": 2125
+        },
+        {
+          "text": "is",
+          "xmin": 596,
+          "ymin": 2084,
+          "xmax": 634,
+          "ymax": 2125
+        },
+        {
+          "text": "a",
+          "xmin": 653,
+          "ymin": 2094,
+          "xmax": 675,
+          "ymax": 2122
+        },
+        {
+          "text": "truism",
+          "xmin": 695,
+          "ymin": 2083,
+          "xmax": 851,
+          "ymax": 2125
+        },
+        {
+          "text": "but",
+          "xmin": 872,
+          "ymin": 2081,
+          "xmax": 950,
+          "ymax": 2125
+        },
+        {
+          "text": "requires",
+          "xmin": 967,
+          "ymin": 2083,
+          "xmax": 1164,
+          "ymax": 2131
+        },
+        {
+          "text": "explanation",
+          "xmin": 1182,
+          "ymin": 2081,
+          "xmax": 1467,
+          "ymax": 2131
+        },
+        {
+          "text": "due",
+          "xmin": 1487,
+          "ymin": 2081,
+          "xmax": 1574,
+          "ymax": 2125
+        },
+        {
+          "text": "to",
+          "xmin": 1591,
+          "ymin": 2087,
+          "xmax": 1637,
+          "ymax": 2125
+        },
+        {
+          "text": "the",
+          "xmin": 1655,
+          "ymin": 2081,
+          "xmax": 1733,
+          "ymax": 2125
+        },
+        {
+          "text": "common",
+          "xmin": 1750,
+          "ymin": 2093,
+          "xmax": 1969,
+          "ymax": 2125
+        },
+        {
+          "text": "ways",
+          "xmin": 1987,
+          "ymin": 2093,
+          "xmax": 2112,
+          "ymax": 2135
+        },
+        {
+          "text": "that",
+          "xmin": 2128,
+          "ymin": 2081,
+          "xmax": 2226,
+          "ymax": 2125
+        },
+        {
+          "text": "religious",
+          "xmin": 227,
+          "ymin": 2163,
+          "xmax": 435,
+          "ymax": 2215
+        },
+        {
+          "text": "traditions",
+          "xmin": 451,
+          "ymin": 2163,
+          "xmax": 686,
+          "ymax": 2207
+        },
+        {
+          "text": "and",
+          "xmin": 704,
+          "ymin": 2162,
+          "xmax": 792,
+          "ymax": 2207
+        },
+        {
+          "text": "practices",
+          "xmin": 812,
+          "ymin": 2165,
+          "xmax": 1037,
+          "ymax": 2213
+        },
+        {
+          "text": "are",
+          "xmin": 1055,
+          "ymin": 2174,
+          "xmax": 1130,
+          "ymax": 2207
+        },
+        {
+          "text": "frequently",
+          "xmin": 1147,
+          "ymin": 2162,
+          "xmax": 1397,
+          "ymax": 2216
+        },
+        {
+          "text": "portrayed",
+          "xmin": 1413,
+          "ymin": 2162,
+          "xmax": 1646,
+          "ymax": 2217
+        },
+        {
+          "text": "as",
+          "xmin": 1665,
+          "ymin": 2174,
+          "xmax": 1720,
+          "ymax": 2207
+        },
+        {
+          "text": "uniform",
+          "xmin": 1739,
+          "ymin": 2162,
+          "xmax": 1930,
+          "ymax": 2207
+        },
+        {
+          "text": "Aside",
+          "xmin": 225,
+          "ymin": 2290,
+          "xmax": 363,
+          "ymax": 2334
+        },
+        {
+          "text": "from",
+          "xmin": 380,
+          "ymin": 2291,
+          "xmax": 495,
+          "ymax": 2334
+        },
+        {
+          "text": "the",
+          "xmin": 512,
+          "ymin": 2290,
+          "xmax": 590,
+          "ymax": 2334
+        },
+        {
+          "text": "obvious",
+          "xmin": 608,
+          "ymin": 2290,
+          "xmax": 801,
+          "ymax": 2335
+        },
+        {
+          "text": "formal",
+          "xmin": 817,
+          "ymin": 2290,
+          "xmax": 977,
+          "ymax": 2334
+        },
+        {
+          "text": "differences",
+          "xmin": 996,
+          "ymin": 2290,
+          "xmax": 1273,
+          "ymax": 2335
+        },
+        {
+          "text": "within",
+          "xmin": 1290,
+          "ymin": 2290,
+          "xmax": 1437,
+          "ymax": 2334
+        },
+        {
+          "text": "traditions",
+          "xmin": 1454,
+          "ymin": 2290,
+          "xmax": 1689,
+          "ymax": 2335
+        },
+        {
+          "text": "represented",
+          "xmin": 1707,
+          "ymin": 2290,
+          "xmax": 2000,
+          "ymax": 2340
+        },
+        {
+          "text": "by",
+          "xmin": 2019,
+          "ymin": 2290,
+          "xmax": 2075,
+          "ymax": 2346
+        },
+        {
+          "text": "differing",
+          "xmin": 2090,
+          "ymin": 2290,
+          "xmax": 2295,
+          "ymax": 2345
+        },
+        {
+          "text": "sects",
+          "xmin": 227,
+          "ymin": 2375,
+          "xmax": 358,
+          "ymax": 2413
+        },
+        {
+          "text": "or",
+          "xmin": 376,
+          "ymin": 2381,
+          "xmax": 426,
+          "ymax": 2413
+        },
+        {
+          "text": "expressions",
+          "xmin": 441,
+          "ymin": 2371,
+          "xmax": 738,
+          "ymax": 2420
+        },
+        {
+          "text": "(e.g.,",
+          "xmin": 757,
+          "ymin": 2367,
+          "xmax": 874,
+          "ymax": 2426
+        },
+        {
+          "text": "Roman",
+          "xmin": 894,
+          "ymin": 2372,
+          "xmax": 1065,
+          "ymax": 2413
+        },
+        {
+          "text": "Catholic,",
+          "xmin": 1084,
+          "ymin": 2369,
+          "xmax": 1296,
+          "ymax": 2419
+        },
+        {
+          "text": "Orthodox",
+          "xmin": 1315,
+          "ymin": 2369,
+          "xmax": 1543,
+          "ymax": 2413
+        },
+        {
+          "text": "Protestant",
+          "xmin": 1573,
+          "ymin": 2372,
+          "xmax": 1830,
+          "ymax": 2413
+        },
+        {
+          "text": "for",
+          "xmin": 1845,
+          "ymin": 2369,
+          "xmax": 1916,
+          "ymax": 2413
+        },
+        {
+          "text": "Christianity",
+          "xmin": 1932,
+          "ymin": 2369,
+          "xmax": 2213,
+          "ymax": 2419
+        },
+        {
+          "text": "=",
+          "xmin": 2208,
+          "ymin": 2382,
+          "xmax": 2218,
+          "ymax": 2413
+        },
+        {
+          "text": "Vaishnavism",
+          "xmin": 225,
+          "ymin": 2447,
+          "xmax": 538,
+          "ymax": 2492
+        },
+        {
+          "text": "I.",
+          "xmin": 539,
+          "ymin": 2464,
+          "xmax": 549,
+          "ymax": 2490
+        },
+        {
+          "text": "Shaivism",
+          "xmin": 570,
+          "ymin": 2447,
+          "xmax": 791,
+          "ymax": 2492
+        },
+        {
+          "text": "|",
+          "xmin": 794,
+          "ymin": 2468,
+          "xmax": 802,
+          "ymax": 2490
+        },
+        {
+          "text": "Shaktism",
+          "xmin": 823,
+          "ymin": 2447,
+          "xmax": 1051,
+          "ymax": 2492
+        },
+        {
+          "text": "I",
+          "xmin": 1052,
+          "ymin": 2466,
+          "xmax": 1059,
+          "ymax": 2490
+        },
+        {
+          "text": "for",
+          "xmin": 1082,
+          "ymin": 2447,
+          "xmax": 1152,
+          "ymax": 2492
+        },
+        {
+          "text": "Hinduism",
+          "xmin": 1169,
+          "ymin": 2447,
+          "xmax": 1399,
+          "ymax": 2492
+        },
+        {
+          "text": "|",
+          "xmin": 1408,
+          "ymin": 2484,
+          "xmax": 1410,
+          "ymax": 2490
+        },
+        {
+          "text": "etc.)",
+          "xmin": 1432,
+          "ymin": 2445,
+          "xmax": 1539,
+          "ymax": 2499
+        },
+        {
+          "text": "there",
+          "xmin": 1556,
+          "ymin": 2447,
+          "xmax": 1681,
+          "ymax": 2492
+        },
+        {
+          "text": "are",
+          "xmin": 1700,
+          "ymin": 2459,
+          "xmax": 1774,
+          "ymax": 2492
+        },
+        {
+          "text": "differences",
+          "xmin": 1792,
+          "ymin": 2447,
+          "xmax": 2070,
+          "ymax": 2492
+        },
+        {
+          "text": "within",
+          "xmin": 2086,
+          "ymin": 2447,
+          "xmax": 2232,
+          "ymax": 2490
+        },
+        {
+          "text": "sects",
+          "xmin": 226,
+          "ymin": 2531,
+          "xmax": 358,
+          "ymax": 2569
+        },
+        {
+          "text": "or",
+          "xmin": 376,
+          "ymin": 2537,
+          "xmax": 426,
+          "ymax": 2569
+        },
+        {
+          "text": "expressions",
+          "xmin": 441,
+          "ymin": 2528,
+          "xmax": 738,
+          "ymax": 2577
+        },
+        {
+          "text": "because",
+          "xmin": 757,
+          "ymin": 2525,
+          "xmax": 965,
+          "ymax": 2569
+        },
+        {
+          "text": "religious",
+          "xmin": 983,
+          "ymin": 2525,
+          "xmax": 1191,
+          "ymax": 2577
+        },
+        {
+          "text": "communities",
+          "xmin": 1209,
+          "ymin": 2528,
+          "xmax": 1533,
+          "ymax": 2569
+        },
+        {
+          "text": "function",
+          "xmin": 1548,
+          "ymin": 2525,
+          "xmax": 1752,
+          "ymax": 2570
+        },
+        {
+          "text": "in",
+          "xmin": 1771,
+          "ymin": 2527,
+          "xmax": 1810,
+          "ymax": 2569
+        },
+        {
+          "text": "different",
+          "xmin": 1828,
+          "ymin": 2525,
+          "xmax": 2038,
+          "ymax": 2569
+        },
+        {
+          "text": "social/political",
+          "xmin": 226,
+          "ymin": 2603,
+          "xmax": 590,
+          "ymax": 2654
+        },
+        {
+          "text": "contexts.",
+          "xmin": 608,
+          "ymin": 2609,
+          "xmax": 829,
+          "ymax": 2648
+        },
+        {
+          "text": "One",
+          "xmin": 227,
+          "ymin": 2736,
+          "xmax": 322,
+          "ymax": 2777
+        },
+        {
+          "text": "example",
+          "xmin": 340,
+          "ymin": 2734,
+          "xmax": 549,
+          "ymax": 2783
+        },
+        {
+          "text": "is",
+          "xmin": 567,
+          "ymin": 2736,
+          "xmax": 606,
+          "ymax": 2777
+        },
+        {
+          "text": "the",
+          "xmin": 621,
+          "ymin": 2734,
+          "xmax": 697,
+          "ymax": 2777
+        },
+        {
+          "text": "debate",
+          "xmin": 716,
+          "ymin": 2734,
+          "xmax": 884,
+          "ymax": 2779
+        },
+        {
+          "text": "mentioned",
+          "xmin": 903,
+          "ymin": 2734,
+          "xmax": 1163,
+          "ymax": 2777
+        },
+        {
+          "text": "above",
+          "xmin": 1183,
+          "ymin": 2734,
+          "xmax": 1330,
+          "ymax": 2777
+        },
+        {
+          "text": "regarding",
+          "xmin": 1348,
+          "ymin": 2734,
+          "xmax": 1580,
+          "ymax": 2789
+        },
+        {
+          "text": "the",
+          "xmin": 1597,
+          "ymin": 2734,
+          "xmax": 1675,
+          "ymax": 2777
+        },
+        {
+          "text": "roles",
+          "xmin": 1693,
+          "ymin": 2734,
+          "xmax": 1812,
+          "ymax": 2777
+        },
+        {
+          "text": "of",
+          "xmin": 1829,
+          "ymin": 2734,
+          "xmax": 1880,
+          "ymax": 2777
+        },
+        {
+          "text": "women",
+          "xmin": 1893,
+          "ymin": 2746,
+          "xmax": 2073,
+          "ymax": 2777
+        },
+        {
+          "text": "in",
+          "xmin": 2095,
+          "ymin": 2736,
+          "xmax": 2133,
+          "ymax": 2777
+        },
+        {
+          "text": "Islam",
+          "xmin": 2155,
+          "ymin": 2734,
+          "xmax": 2285,
+          "ymax": 2777
+        },
+        {
+          "text": "The",
+          "xmin": 225,
+          "ymin": 2812,
+          "xmax": 318,
+          "ymax": 2857
+        },
+        {
+          "text": "following",
+          "xmin": 333,
+          "ymin": 2812,
+          "xmax": 558,
+          "ymax": 2865
+        },
+        {
+          "text": "assertions",
+          "xmin": 578,
+          "ymin": 2814,
+          "xmax": 837,
+          "ymax": 2857
+        },
+        {
+          "text": "are",
+          "xmin": 855,
+          "ymin": 2824,
+          "xmax": 930,
+          "ymax": 2857
+        },
+        {
+          "text": "also",
+          "xmin": 949,
+          "ymin": 2812,
+          "xmax": 1048,
+          "ymax": 2857
+        },
+        {
+          "text": "commonly",
+          "xmin": 1067,
+          "ymin": 2812,
+          "xmax": 1328,
+          "ymax": 2866
+        },
+        {
+          "text": "repeated",
+          "xmin": 1346,
+          "ymin": 2812,
+          "xmax": 1561,
+          "ymax": 2864
+        },
+        {
+          "text": "|",
+          "xmin": 1566,
+          "ymin": 2825,
+          "xmax": 1569,
+          "ymax": 2832
+        },
+        {
+          "text": "\"Buddhists",
+          "xmin": 301,
+          "ymin": 2940,
+          "xmax": 568,
+          "ymax": 2985
+        },
+        {
+          "text": "are",
+          "xmin": 586,
+          "ymin": 2952,
+          "xmax": 662,
+          "ymax": 2983
+        },
+        {
+          "text": "nonviolent\"",
+          "xmin": 679,
+          "ymin": 2940,
+          "xmax": 955,
+          "ymax": 2985
+        },
+        {
+          "text": "\"Christians",
+          "xmin": 302,
+          "ymin": 3056,
+          "xmax": 569,
+          "ymax": 3101
+        },
+        {
+          "text": "oppose",
+          "xmin": 587,
+          "ymin": 3068,
+          "xmax": 770,
+          "ymax": 3106
+        },
+        {
+          "text": "abortion",
+          "xmin": 787,
+          "ymin": 3056,
+          "xmax": 996,
+          "ymax": 3101
+        },
+        {
+          "text": "'",
+          "xmin": 990,
+          "ymin": 3056,
+          "xmax": 1003,
+          "ymax": 3080
+        },
+        {
+          "text": "\"Religion",
+          "xmin": 301,
+          "ymin": 3172,
+          "xmax": 517,
+          "ymax": 3226
+        },
+        {
+          "text": "and",
+          "xmin": 535,
+          "ymin": 3172,
+          "xmax": 623,
+          "ymax": 3216
+        },
+        {
+          "text": "science",
+          "xmin": 642,
+          "ymin": 3174,
+          "xmax": 832,
+          "ymax": 3216
+        },
+        {
+          "text": "are",
+          "xmin": 850,
+          "ymin": 3184,
+          "xmax": 925,
+          "ymax": 3216
+        },
+        {
+          "text": "incompatible",
+          "xmin": 944,
+          "ymin": 3172,
+          "xmax": 1268,
+          "ymax": 3227
+        },
+        {
+          "text": "1",
+          "xmin": 1262,
+          "ymin": 3172,
+          "xmax": 1274,
+          "ymax": 3193
+        }
+      ],
+      "raw_text": "example I there is a great deal of contemporary debate about the roles for women in Islam In truth I there are a variety of theological interpretations of the tradition that lead to different, sometimes antithetical practices and assertions. | Equally common is that differing communities will have similar practices but with diverse theological justifications It is appropriate for members of a particular community to assert the orthodoxy (or orthopraxy 7) of their theological interpretations of the tradition | but it is important to recognize the difference between a theological assertion of normativity and the factual truth that multiple legitimate perspectives exist. The latter represents the nonsectarian study of religion I This is the approach promoted here and the one most appropriate to advance the public understanding of religion. / There are three other central assertions about religions themselves that religious studies scholars have outlined and that flow from the recognition of the distinction between devotional expression and the nonsectarian study of religion outlined above 1. religions are internally diverse as opposed to uniform | 2. religions evolve and change over time as opposed to being ahistorical and static : 3. religious influences are embedded in all dimensions of culture as opposed to the assumption that religions function in discrete 2 isolated | \"private contexts. Religions are internally diverse This assertion is a truism but requires explanation due to the common ways that religious traditions and practices are frequently portrayed as uniform Aside from the obvious formal differences within traditions represented by differing sects or expressions (e.g., Roman Catholic, Orthodox Protestant for Christianity = Vaishnavism I. Shaivism | Shaktism I for Hinduism | etc.) there are differences within sects or expressions because religious communities function in different social/political contexts. One example is the debate mentioned above regarding the roles of women in Islam The following assertions are also commonly repeated | \"Buddhists are nonviolent\" \"Christians oppose abortion ' \"Religion and science are incompatible 1 "
+    },
+    {
+      "page": 2,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/c3700a7f-eb02-41bf-b63a-3801721c243b-3.jpeg?ik-s=2bc7e1ddf7bd278625ecc3e5f055492e68680a1a&ik-t=1747195778",
+      "size": {
+        "width": 2479,
+        "height": 3508
+      },
+      "words": [
+        {
+          "text": "All",
+          "xmin": 225,
+          "ymin": 159,
+          "xmax": 285,
+          "ymax": 203
+        },
+        {
+          "text": "of",
+          "xmin": 304,
+          "ymin": 159,
+          "xmax": 355,
+          "ymax": 204
+        },
+        {
+          "text": "these",
+          "xmin": 368,
+          "ymin": 159,
+          "xmax": 505,
+          "ymax": 204
+        },
+        {
+          "text": "comments",
+          "xmin": 522,
+          "ymin": 165,
+          "xmax": 787,
+          "ymax": 204
+        },
+        {
+          "text": "represent",
+          "xmin": 805,
+          "ymin": 165,
+          "xmax": 1038,
+          "ymax": 212
+        },
+        {
+          "text": "particular",
+          "xmin": 1056,
+          "ymin": 159,
+          "xmax": 1292,
+          "ymax": 210
+        },
+        {
+          "text": "theological",
+          "xmin": 1306,
+          "ymin": 159,
+          "xmax": 1578,
+          "ymax": 214
+        },
+        {
+          "text": "assertions",
+          "xmin": 1598,
+          "ymin": 161,
+          "xmax": 1856,
+          "ymax": 204
+        },
+        {
+          "text": "as",
+          "xmin": 1874,
+          "ymin": 171,
+          "xmax": 1931,
+          "ymax": 204
+        },
+        {
+          "text": "opposed",
+          "xmin": 1948,
+          "ymin": 160,
+          "xmax": 2161,
+          "ymax": 215
+        },
+        {
+          "text": "to",
+          "xmin": 2178,
+          "ymin": 165,
+          "xmax": 2227,
+          "ymax": 204
+        },
+        {
+          "text": "factual",
+          "xmin": 225,
+          "ymin": 237,
+          "xmax": 395,
+          "ymax": 282
+        },
+        {
+          "text": "claims",
+          "xmin": 413,
+          "ymin": 237,
+          "xmax": 576,
+          "ymax": 281
+        },
+        {
+          "text": "representing",
+          "xmin": 594,
+          "ymin": 239,
+          "xmax": 900,
+          "ymax": 292
+        },
+        {
+          "text": "the",
+          "xmin": 918,
+          "ymin": 237,
+          "xmax": 996,
+          "ymax": 281
+        },
+        {
+          "text": "tradition",
+          "xmin": 1011,
+          "ymin": 237,
+          "xmax": 1215,
+          "ymax": 281
+        },
+        {
+          "text": "itself",
+          "xmin": 1237,
+          "ymin": 237,
+          "xmax": 1361,
+          "ymax": 281
+        },
+        {
+          "text": "Religions",
+          "xmin": 227,
+          "ymin": 363,
+          "xmax": 588,
+          "ymax": 451
+        },
+        {
+          "text": "evolve",
+          "xmin": 611,
+          "ymin": 363,
+          "xmax": 855,
+          "ymax": 432
+        },
+        {
+          "text": "and",
+          "xmin": 877,
+          "ymin": 363,
+          "xmax": 1021,
+          "ymax": 432
+        },
+        {
+          "text": "change",
+          "xmin": 1043,
+          "ymin": 364,
+          "xmax": 1321,
+          "ymax": 453
+        },
+        {
+          "text": "This",
+          "xmin": 225,
+          "ymin": 515,
+          "xmax": 330,
+          "ymax": 560
+        },
+        {
+          "text": "is",
+          "xmin": 348,
+          "ymin": 517,
+          "xmax": 387,
+          "ymax": 560
+        },
+        {
+          "text": "another",
+          "xmin": 404,
+          "ymin": 515,
+          "xmax": 594,
+          "ymax": 560
+        },
+        {
+          "text": "truism",
+          "xmin": 608,
+          "ymin": 517,
+          "xmax": 763,
+          "ymax": 560
+        },
+        {
+          "text": "but",
+          "xmin": 785,
+          "ymin": 515,
+          "xmax": 863,
+          "ymax": 560
+        },
+        {
+          "text": "again",
+          "xmin": 879,
+          "ymin": 518,
+          "xmax": 1013,
+          "ymax": 571
+        },
+        {
+          "text": "requires",
+          "xmin": 1032,
+          "ymin": 517,
+          "xmax": 1229,
+          "ymax": 566
+        },
+        {
+          "text": "explanation",
+          "xmin": 1247,
+          "ymin": 516,
+          "xmax": 1533,
+          "ymax": 566
+        },
+        {
+          "text": "due",
+          "xmin": 1552,
+          "ymin": 515,
+          "xmax": 1640,
+          "ymax": 560
+        },
+        {
+          "text": "to",
+          "xmin": 1656,
+          "ymin": 521,
+          "xmax": 1703,
+          "ymax": 560
+        },
+        {
+          "text": "the",
+          "xmin": 1720,
+          "ymin": 515,
+          "xmax": 1798,
+          "ymax": 560
+        },
+        {
+          "text": "common",
+          "xmin": 1815,
+          "ymin": 527,
+          "xmax": 2032,
+          "ymax": 560
+        },
+        {
+          "text": "practice",
+          "xmin": 2053,
+          "ymin": 518,
+          "xmax": 2249,
+          "ymax": 566
+        },
+        {
+          "text": "of",
+          "xmin": 2267,
+          "ymin": 515,
+          "xmax": 2317,
+          "ymax": 558
+        },
+        {
+          "text": "representing",
+          "xmin": 227,
+          "ymin": 600,
+          "xmax": 533,
+          "ymax": 651
+        },
+        {
+          "text": "religious",
+          "xmin": 554,
+          "ymin": 597,
+          "xmax": 762,
+          "ymax": 651
+        },
+        {
+          "text": "traditions",
+          "xmin": 778,
+          "ymin": 597,
+          "xmax": 1013,
+          "ymax": 642
+        },
+        {
+          "text": "without",
+          "xmin": 1031,
+          "ymin": 597,
+          "xmax": 1215,
+          "ymax": 642
+        },
+        {
+          "text": "social",
+          "xmin": 1231,
+          "ymin": 597,
+          "xmax": 1375,
+          "ymax": 642
+        },
+        {
+          "text": "or",
+          "xmin": 1394,
+          "ymin": 609,
+          "xmax": 1444,
+          "ymax": 642
+        },
+        {
+          "text": "historical",
+          "xmin": 1460,
+          "ymin": 597,
+          "xmax": 1684,
+          "ymax": 642
+        },
+        {
+          "text": "context",
+          "xmin": 1703,
+          "ymin": 603,
+          "xmax": 1887,
+          "ymax": 642
+        },
+        {
+          "text": "and",
+          "xmin": 1905,
+          "ymin": 597,
+          "xmax": 1991,
+          "ymax": 642
+        },
+        {
+          "text": "solely",
+          "xmin": 2011,
+          "ymin": 597,
+          "xmax": 2154,
+          "ymax": 652
+        },
+        {
+          "text": "(or",
+          "xmin": 2171,
+          "ymin": 595,
+          "xmax": 2240,
+          "ymax": 645
+        },
+        {
+          "text": "primarily",
+          "xmin": 227,
+          "ymin": 673,
+          "xmax": 445,
+          "ymax": 728
+        },
+        {
+          "text": "7",
+          "xmin": 439,
+          "ymin": 675,
+          "xmax": 455,
+          "ymax": 721
+        },
+        {
+          "text": "through",
+          "xmin": 475,
+          "ymin": 675,
+          "xmax": 666,
+          "ymax": 731
+        },
+        {
+          "text": "ritual",
+          "xmin": 685,
+          "ymin": 675,
+          "xmax": 806,
+          "ymax": 719
+        },
+        {
+          "text": "expression",
+          "xmin": 825,
+          "ymin": 678,
+          "xmax": 1092,
+          "ymax": 725
+        },
+        {
+          "text": "and/or",
+          "xmin": 1111,
+          "ymin": 675,
+          "xmax": 1278,
+          "ymax": 719
+        },
+        {
+          "text": "abstract",
+          "xmin": 1293,
+          "ymin": 675,
+          "xmax": 1497,
+          "ymax": 719
+        },
+        {
+          "text": "beliefs.",
+          "xmin": 1514,
+          "ymin": 675,
+          "xmax": 1689,
+          "ymax": 719
+        },
+        {
+          "text": "Religions",
+          "xmin": 228,
+          "ymin": 803,
+          "xmax": 451,
+          "ymax": 854
+        },
+        {
+          "text": "exist",
+          "xmin": 469,
+          "ymin": 805,
+          "xmax": 586,
+          "ymax": 848
+        },
+        {
+          "text": "in",
+          "xmin": 603,
+          "ymin": 805,
+          "xmax": 643,
+          "ymax": 845
+        },
+        {
+          "text": "time",
+          "xmin": 659,
+          "ymin": 805,
+          "xmax": 769,
+          "ymax": 848
+        },
+        {
+          "text": "and",
+          "xmin": 786,
+          "ymin": 803,
+          "xmax": 873,
+          "ymax": 848
+        },
+        {
+          "text": "space",
+          "xmin": 894,
+          "ymin": 815,
+          "xmax": 1040,
+          "ymax": 854
+        },
+        {
+          "text": "and",
+          "xmin": 1058,
+          "ymin": 803,
+          "xmax": 1144,
+          "ymax": 848
+        },
+        {
+          "text": "are",
+          "xmin": 1165,
+          "ymin": 815,
+          "xmax": 1240,
+          "ymax": 848
+        },
+        {
+          "text": "constantly",
+          "xmin": 1258,
+          "ymin": 803,
+          "xmax": 1516,
+          "ymax": 857
+        },
+        {
+          "text": "interpreted",
+          "xmin": 1533,
+          "ymin": 803,
+          "xmax": 1799,
+          "ymax": 855
+        },
+        {
+          "text": "and",
+          "xmin": 1818,
+          "ymin": 803,
+          "xmax": 1906,
+          "ymax": 848
+        },
+        {
+          "text": "reinterpreted",
+          "xmin": 1927,
+          "ymin": 804,
+          "xmax": 2241,
+          "ymax": 857
+        },
+        {
+          "text": "by",
+          "xmin": 2261,
+          "ymin": 803,
+          "xmax": 2316,
+          "ymax": 859
+        },
+        {
+          "text": "believers.",
+          "xmin": 227,
+          "ymin": 881,
+          "xmax": 459,
+          "ymax": 925
+        },
+        {
+          "text": "For",
+          "xmin": 228,
+          "ymin": 1043,
+          "xmax": 307,
+          "ymax": 1084
+        },
+        {
+          "text": "example,",
+          "xmin": 322,
+          "ymin": 1040,
+          "xmax": 542,
+          "ymax": 1092
+        },
+        {
+          "text": "the",
+          "xmin": 557,
+          "ymin": 1040,
+          "xmax": 634,
+          "ymax": 1084
+        },
+        {
+          "text": "Confucian",
+          "xmin": 654,
+          "ymin": 1040,
+          "xmax": 904,
+          "ymax": 1085
+        },
+        {
+          "text": "concept",
+          "xmin": 922,
+          "ymin": 1047,
+          "xmax": 1121,
+          "ymax": 1090
+        },
+        {
+          "text": "of",
+          "xmin": 1138,
+          "ymin": 1040,
+          "xmax": 1188,
+          "ymax": 1084
+        },
+        {
+          "text": "the",
+          "xmin": 1202,
+          "ymin": 1040,
+          "xmax": 1278,
+          "ymax": 1084
+        },
+        {
+          "text": "\"mandate",
+          "xmin": 1296,
+          "ymin": 1040,
+          "xmax": 1533,
+          "ymax": 1085
+        },
+        {
+          "text": "from",
+          "xmin": 1550,
+          "ymin": 1040,
+          "xmax": 1665,
+          "ymax": 1084
+        },
+        {
+          "text": "heaven\"",
+          "xmin": 1685,
+          "ymin": 1040,
+          "xmax": 1876,
+          "ymax": 1084
+        },
+        {
+          "text": "evolved",
+          "xmin": 1894,
+          "ymin": 1040,
+          "xmax": 2079,
+          "ymax": 1084
+        },
+        {
+          "text": "within",
+          "xmin": 2098,
+          "ymin": 1040,
+          "xmax": 2243,
+          "ymax": 1084
+        },
+        {
+          "text": "dynasties",
+          "xmin": 226,
+          "ymin": 1120,
+          "xmax": 467,
+          "ymax": 1169
+        },
+        {
+          "text": "|",
+          "xmin": 467,
+          "ymin": 1156,
+          "xmax": 470,
+          "ymax": 1163
+        },
+        {
+          "text": "geopolitical",
+          "xmin": 491,
+          "ymin": 1120,
+          "xmax": 777,
+          "ymax": 1175
+        },
+        {
+          "text": "regions",
+          "xmin": 796,
+          "ymin": 1122,
+          "xmax": 980,
+          "ymax": 1174
+        },
+        {
+          "text": "S",
+          "xmin": 974,
+          "ymin": 1134,
+          "xmax": 986,
+          "ymax": 1165
+        },
+        {
+          "text": "and",
+          "xmin": 1007,
+          "ymin": 1119,
+          "xmax": 1095,
+          "ymax": 1164
+        },
+        {
+          "text": "historical",
+          "xmin": 1114,
+          "ymin": 1120,
+          "xmax": 1339,
+          "ymax": 1163
+        },
+        {
+          "text": "eras",
+          "xmin": 1357,
+          "ymin": 1131,
+          "xmax": 1462,
+          "ymax": 1163
+        },
+        {
+          "text": "and",
+          "xmin": 1479,
+          "ymin": 1119,
+          "xmax": 1566,
+          "ymax": 1163
+        },
+        {
+          "text": "continues",
+          "xmin": 1586,
+          "ymin": 1121,
+          "xmax": 1829,
+          "ymax": 1163
+        },
+        {
+          "text": "to",
+          "xmin": 1844,
+          "ymin": 1125,
+          "xmax": 1892,
+          "ymax": 1163
+        },
+        {
+          "text": "evolve",
+          "xmin": 1910,
+          "ymin": 1119,
+          "xmax": 2065,
+          "ymax": 1163
+        },
+        {
+          "text": "today",
+          "xmin": 2080,
+          "ymin": 1119,
+          "xmax": 2221,
+          "ymax": 1173
+        },
+        {
+          "text": "|",
+          "xmin": 2220,
+          "ymin": 1157,
+          "xmax": 2224,
+          "ymax": 1158
+        },
+        {
+          "text": "Another",
+          "xmin": 225,
+          "ymin": 1197,
+          "xmax": 423,
+          "ymax": 1242
+        },
+        {
+          "text": "example",
+          "xmin": 438,
+          "ymin": 1197,
+          "xmax": 647,
+          "ymax": 1248
+        },
+        {
+          "text": "is",
+          "xmin": 667,
+          "ymin": 1199,
+          "xmax": 703,
+          "ymax": 1242
+        },
+        {
+          "text": "that",
+          "xmin": 719,
+          "ymin": 1197,
+          "xmax": 817,
+          "ymax": 1242
+        },
+        {
+          "text": "the",
+          "xmin": 832,
+          "ymin": 1197,
+          "xmax": 910,
+          "ymax": 1242
+        },
+        {
+          "text": "practice",
+          "xmin": 928,
+          "ymin": 1200,
+          "xmax": 1125,
+          "ymax": 1249
+        },
+        {
+          "text": "of",
+          "xmin": 1142,
+          "ymin": 1197,
+          "xmax": 1193,
+          "ymax": 1240
+        },
+        {
+          "text": "slavery",
+          "xmin": 1207,
+          "ymin": 1197,
+          "xmax": 1382,
+          "ymax": 1252
+        },
+        {
+          "text": "has",
+          "xmin": 1398,
+          "ymin": 1197,
+          "xmax": 1485,
+          "ymax": 1242
+        },
+        {
+          "text": "been",
+          "xmin": 1503,
+          "ymin": 1197,
+          "xmax": 1618,
+          "ymax": 1242
+        },
+        {
+          "text": "both",
+          "xmin": 1639,
+          "ymin": 1197,
+          "xmax": 1747,
+          "ymax": 1242
+        },
+        {
+          "text": "justified",
+          "xmin": 1766,
+          "ymin": 1197,
+          "xmax": 1959,
+          "ymax": 1246
+        },
+        {
+          "text": "and",
+          "xmin": 1978,
+          "ymin": 1197,
+          "xmax": 2065,
+          "ymax": 1242
+        },
+        {
+          "text": "vilified",
+          "xmin": 2084,
+          "ymin": 1197,
+          "xmax": 2240,
+          "ymax": 1242
+        },
+        {
+          "text": "by",
+          "xmin": 2261,
+          "ymin": 1197,
+          "xmax": 2316,
+          "ymax": 1253
+        },
+        {
+          "text": "all",
+          "xmin": 226,
+          "ymin": 1275,
+          "xmax": 279,
+          "ymax": 1319
+        },
+        {
+          "text": "three",
+          "xmin": 296,
+          "ymin": 1275,
+          "xmax": 423,
+          "ymax": 1319
+        },
+        {
+          "text": "monotheistic",
+          "xmin": 440,
+          "ymin": 1275,
+          "xmax": 763,
+          "ymax": 1319
+        },
+        {
+          "text": "traditions",
+          "xmin": 779,
+          "ymin": 1275,
+          "xmax": 1015,
+          "ymax": 1319
+        },
+        {
+          "text": "in",
+          "xmin": 1033,
+          "ymin": 1278,
+          "xmax": 1073,
+          "ymax": 1319
+        },
+        {
+          "text": "differing",
+          "xmin": 1091,
+          "ymin": 1275,
+          "xmax": 1295,
+          "ymax": 1328
+        },
+        {
+          "text": "social",
+          "xmin": 1314,
+          "ymin": 1275,
+          "xmax": 1458,
+          "ymax": 1319
+        },
+        {
+          "text": "and",
+          "xmin": 1476,
+          "ymin": 1276,
+          "xmax": 1563,
+          "ymax": 1319
+        },
+        {
+          "text": "historical",
+          "xmin": 1584,
+          "ymin": 1275,
+          "xmax": 1809,
+          "ymax": 1320
+        },
+        {
+          "text": "contexts.",
+          "xmin": 1828,
+          "ymin": 1281,
+          "xmax": 2054,
+          "ymax": 1319
+        },
+        {
+          "text": "Finally,",
+          "xmin": 228,
+          "ymin": 1403,
+          "xmax": 391,
+          "ymax": 1455
+        },
+        {
+          "text": "in",
+          "xmin": 409,
+          "ymin": 1406,
+          "xmax": 448,
+          "ymax": 1446
+        },
+        {
+          "text": "a",
+          "xmin": 468,
+          "ymin": 1415,
+          "xmax": 489,
+          "ymax": 1446
+        },
+        {
+          "text": "more",
+          "xmin": 513,
+          "ymin": 1415,
+          "xmax": 639,
+          "ymax": 1448
+        },
+        {
+          "text": "specific",
+          "xmin": 655,
+          "ymin": 1403,
+          "xmax": 847,
+          "ymax": 1456
+        },
+        {
+          "text": "example,",
+          "xmin": 864,
+          "ymin": 1403,
+          "xmax": 1083,
+          "ymax": 1454
+        },
+        {
+          "text": "the",
+          "xmin": 1099,
+          "ymin": 1403,
+          "xmax": 1177,
+          "ymax": 1448
+        },
+        {
+          "text": "Southern",
+          "xmin": 1195,
+          "ymin": 1404,
+          "xmax": 1415,
+          "ymax": 1448
+        },
+        {
+          "text": "Baptist",
+          "xmin": 1436,
+          "ymin": 1405,
+          "xmax": 1609,
+          "ymax": 1454
+        },
+        {
+          "text": "convention",
+          "xmin": 1625,
+          "ymin": 1406,
+          "xmax": 1895,
+          "ymax": 1448
+        },
+        {
+          "text": "in",
+          "xmin": 1916,
+          "ymin": 1405,
+          "xmax": 1955,
+          "ymax": 1447
+        },
+        {
+          "text": "the",
+          "xmin": 1971,
+          "ymin": 1403,
+          "xmax": 2048,
+          "ymax": 1448
+        },
+        {
+          "text": "United",
+          "xmin": 2067,
+          "ymin": 1403,
+          "xmax": 2221,
+          "ymax": 1448
+        },
+        {
+          "text": "States",
+          "xmin": 227,
+          "ymin": 1486,
+          "xmax": 383,
+          "ymax": 1529
+        },
+        {
+          "text": "passed",
+          "xmin": 401,
+          "ymin": 1484,
+          "xmax": 577,
+          "ymax": 1537
+        },
+        {
+          "text": "a",
+          "xmin": 596,
+          "ymin": 1496,
+          "xmax": 618,
+          "ymax": 1528
+        },
+        {
+          "text": "series",
+          "xmin": 640,
+          "ymin": 1486,
+          "xmax": 786,
+          "ymax": 1529
+        },
+        {
+          "text": "of",
+          "xmin": 804,
+          "ymin": 1484,
+          "xmax": 855,
+          "ymax": 1529
+        },
+        {
+          "text": "resolutions",
+          "xmin": 871,
+          "ymin": 1484,
+          "xmax": 1144,
+          "ymax": 1528
+        },
+        {
+          "text": "in",
+          "xmin": 1163,
+          "ymin": 1486,
+          "xmax": 1202,
+          "ymax": 1527
+        },
+        {
+          "text": "the",
+          "xmin": 1219,
+          "ymin": 1484,
+          "xmax": 1297,
+          "ymax": 1528
+        },
+        {
+          "text": "1970s",
+          "xmin": 1316,
+          "ymin": 1486,
+          "xmax": 1466,
+          "ymax": 1529
+        },
+        {
+          "text": "supporting",
+          "xmin": 1485,
+          "ymin": 1486,
+          "xmax": 1749,
+          "ymax": 1539
+        },
+        {
+          "text": "the",
+          "xmin": 1766,
+          "ymin": 1484,
+          "xmax": 1843,
+          "ymax": 1528
+        },
+        {
+          "text": "moral",
+          "xmin": 1862,
+          "ymin": 1484,
+          "xmax": 2000,
+          "ymax": 1529
+        },
+        {
+          "text": "legitimacy",
+          "xmin": 2021,
+          "ymin": 1484,
+          "xmax": 2273,
+          "ymax": 1536
+        },
+        {
+          "text": "of",
+          "xmin": 226,
+          "ymin": 1562,
+          "xmax": 277,
+          "ymax": 1605
+        },
+        {
+          "text": "abortion",
+          "xmin": 292,
+          "ymin": 1562,
+          "xmax": 497,
+          "ymax": 1607
+        },
+        {
+          "text": "in",
+          "xmin": 516,
+          "ymin": 1565,
+          "xmax": 555,
+          "ymax": 1605
+        },
+        {
+          "text": "certain",
+          "xmin": 574,
+          "ymin": 1564,
+          "xmax": 744,
+          "ymax": 1607
+        },
+        {
+          "text": "cases",
+          "xmin": 762,
+          "ymin": 1574,
+          "xmax": 905,
+          "ymax": 1607
+        },
+        {
+          "text": "and",
+          "xmin": 924,
+          "ymin": 1562,
+          "xmax": 1012,
+          "ymax": 1607
+        },
+        {
+          "text": "reversed",
+          "xmin": 1032,
+          "ymin": 1562,
+          "xmax": 1240,
+          "ymax": 1607
+        },
+        {
+          "text": "those",
+          "xmin": 1257,
+          "ymin": 1562,
+          "xmax": 1397,
+          "ymax": 1607
+        },
+        {
+          "text": "resolutions",
+          "xmin": 1414,
+          "ymin": 1562,
+          "xmax": 1689,
+          "ymax": 1607
+        },
+        {
+          "text": "in",
+          "xmin": 1708,
+          "ymin": 1564,
+          "xmax": 1744,
+          "ymax": 1605
+        },
+        {
+          "text": "2003.[11",
+          "xmin": 1765,
+          "ymin": 1559,
+          "xmax": 1962,
+          "ymax": 1607
+        },
+        {
+          "text": "Religious",
+          "xmin": 227,
+          "ymin": 1688,
+          "xmax": 585,
+          "ymax": 1774
+        },
+        {
+          "text": "influences",
+          "xmin": 608,
+          "ymin": 1688,
+          "xmax": 1011,
+          "ymax": 1757
+        },
+        {
+          "text": "are",
+          "xmin": 1033,
+          "ymin": 1708,
+          "xmax": 1151,
+          "ymax": 1757
+        },
+        {
+          "text": "embedded",
+          "xmin": 1174,
+          "ymin": 1688,
+          "xmax": 1578,
+          "ymax": 1757
+        },
+        {
+          "text": "in",
+          "xmin": 1601,
+          "ymin": 1690,
+          "xmax": 1679,
+          "ymax": 1755
+        },
+        {
+          "text": "cultures",
+          "xmin": 1701,
+          "ymin": 1688,
+          "xmax": 2012,
+          "ymax": 1757
+        },
+        {
+          "text": "Religions",
+          "xmin": 228,
+          "ymin": 1840,
+          "xmax": 451,
+          "ymax": 1894
+        },
+        {
+          "text": "are",
+          "xmin": 469,
+          "ymin": 1852,
+          "xmax": 544,
+          "ymax": 1885
+        },
+        {
+          "text": "collections",
+          "xmin": 562,
+          "ymin": 1840,
+          "xmax": 831,
+          "ymax": 1885
+        },
+        {
+          "text": "of",
+          "xmin": 850,
+          "ymin": 1840,
+          "xmax": 900,
+          "ymax": 1884
+        },
+        {
+          "text": "ideas",
+          "xmin": 915,
+          "ymin": 1840,
+          "xmax": 1045,
+          "ymax": 1885
+        },
+        {
+          "text": "S",
+          "xmin": 1042,
+          "ymin": 1855,
+          "xmax": 1055,
+          "ymax": 1885
+        },
+        {
+          "text": "practices",
+          "xmin": 1075,
+          "ymin": 1843,
+          "xmax": 1300,
+          "ymax": 1892
+        },
+        {
+          "text": "E",
+          "xmin": 1299,
+          "ymin": 1858,
+          "xmax": 1309,
+          "ymax": 1884
+        },
+        {
+          "text": "values",
+          "xmin": 1328,
+          "ymin": 1840,
+          "xmax": 1486,
+          "ymax": 1885
+        },
+        {
+          "text": "5",
+          "xmin": 1484,
+          "ymin": 1859,
+          "xmax": 1496,
+          "ymax": 1885
+        },
+        {
+          "text": "and",
+          "xmin": 1515,
+          "ymin": 1840,
+          "xmax": 1604,
+          "ymax": 1885
+        },
+        {
+          "text": "stories",
+          "xmin": 1623,
+          "ymin": 1842,
+          "xmax": 1789,
+          "ymax": 1884
+        },
+        {
+          "text": "that",
+          "xmin": 1805,
+          "ymin": 1840,
+          "xmax": 1903,
+          "ymax": 1884
+        },
+        {
+          "text": "are",
+          "xmin": 1919,
+          "ymin": 1852,
+          "xmax": 1994,
+          "ymax": 1884
+        },
+        {
+          "text": "all",
+          "xmin": 2013,
+          "ymin": 1840,
+          "xmax": 2065,
+          "ymax": 1884
+        },
+        {
+          "text": "embedded",
+          "xmin": 226,
+          "ymin": 1922,
+          "xmax": 486,
+          "ymax": 1966
+        },
+        {
+          "text": "in",
+          "xmin": 508,
+          "ymin": 1924,
+          "xmax": 546,
+          "ymax": 1966
+        },
+        {
+          "text": "cultures",
+          "xmin": 564,
+          "ymin": 1922,
+          "xmax": 760,
+          "ymax": 1966
+        },
+        {
+          "text": "and",
+          "xmin": 780,
+          "ymin": 1922,
+          "xmax": 867,
+          "ymax": 1966
+        },
+        {
+          "text": "not",
+          "xmin": 887,
+          "ymin": 1928,
+          "xmax": 966,
+          "ymax": 1966
+        },
+        {
+          "text": "separable",
+          "xmin": 982,
+          "ymin": 1922,
+          "xmax": 1224,
+          "ymax": 1976
+        },
+        {
+          "text": "from",
+          "xmin": 1240,
+          "ymin": 1922,
+          "xmax": 1352,
+          "ymax": 1966
+        },
+        {
+          "text": "them.",
+          "xmin": 1372,
+          "ymin": 1922,
+          "xmax": 1506,
+          "ymax": 1966
+        },
+        {
+          "text": "Just",
+          "xmin": 1530,
+          "ymin": 1925,
+          "xmax": 1638,
+          "ymax": 1966
+        },
+        {
+          "text": "as",
+          "xmin": 1655,
+          "ymin": 1934,
+          "xmax": 1711,
+          "ymax": 1966
+        },
+        {
+          "text": "religion",
+          "xmin": 1729,
+          "ymin": 1922,
+          "xmax": 1906,
+          "ymax": 1974
+        },
+        {
+          "text": "cannot",
+          "xmin": 1926,
+          "ymin": 1928,
+          "xmax": 2097,
+          "ymax": 1966
+        },
+        {
+          "text": "be",
+          "xmin": 2114,
+          "ymin": 1922,
+          "xmax": 2171,
+          "ymax": 1966
+        },
+        {
+          "text": "understood",
+          "xmin": 227,
+          "ymin": 2000,
+          "xmax": 506,
+          "ymax": 2045
+        },
+        {
+          "text": "in",
+          "xmin": 526,
+          "ymin": 2002,
+          "xmax": 566,
+          "ymax": 2043
+        },
+        {
+          "text": "isolation",
+          "xmin": 586,
+          "ymin": 2000,
+          "xmax": 793,
+          "ymax": 2045
+        },
+        {
+          "text": "from",
+          "xmin": 811,
+          "ymin": 2000,
+          "xmax": 925,
+          "ymax": 2045
+        },
+        {
+          "text": "its",
+          "xmin": 947,
+          "ymin": 2003,
+          "xmax": 1004,
+          "ymax": 2045
+        },
+        {
+          "text": "cultural",
+          "xmin": 1021,
+          "ymin": 2000,
+          "xmax": 1202,
+          "ymax": 2045
+        },
+        {
+          "text": "(including",
+          "xmin": 1222,
+          "ymin": 1998,
+          "xmax": 1461,
+          "ymax": 2055
+        },
+        {
+          "text": "political)",
+          "xmin": 1482,
+          "ymin": 1998,
+          "xmax": 1692,
+          "ymax": 2051
+        },
+        {
+          "text": "contexts",
+          "xmin": 1711,
+          "ymin": 2006,
+          "xmax": 1924,
+          "ymax": 2045
+        },
+        {
+          "text": "S.",
+          "xmin": 1919,
+          "ymin": 2015,
+          "xmax": 1932,
+          "ymax": 2044
+        },
+        {
+          "text": "it",
+          "xmin": 1954,
+          "ymin": 2002,
+          "xmax": 1981,
+          "ymax": 2042
+        },
+        {
+          "text": "is",
+          "xmin": 2000,
+          "ymin": 2002,
+          "xmax": 2037,
+          "ymax": 2045
+        },
+        {
+          "text": "impossible",
+          "xmin": 227,
+          "ymin": 2078,
+          "xmax": 497,
+          "ymax": 2132
+        },
+        {
+          "text": "to",
+          "xmin": 511,
+          "ymin": 2084,
+          "xmax": 558,
+          "ymax": 2122
+        },
+        {
+          "text": "understand",
+          "xmin": 578,
+          "ymin": 2078,
+          "xmax": 856,
+          "ymax": 2122
+        },
+        {
+          "text": "culture",
+          "xmin": 875,
+          "ymin": 2078,
+          "xmax": 1044,
+          "ymax": 2122
+        },
+        {
+          "text": "without",
+          "xmin": 1060,
+          "ymin": 2078,
+          "xmax": 1245,
+          "ymax": 2122
+        },
+        {
+          "text": "considering",
+          "xmin": 1261,
+          "ymin": 2078,
+          "xmax": 1549,
+          "ymax": 2131
+        },
+        {
+          "text": "its",
+          "xmin": 1569,
+          "ymin": 2080,
+          "xmax": 1626,
+          "ymax": 2122
+        },
+        {
+          "text": "religious",
+          "xmin": 1644,
+          "ymin": 2078,
+          "xmax": 1853,
+          "ymax": 2131
+        },
+        {
+          "text": "dimensions.",
+          "xmin": 1870,
+          "ymin": 2078,
+          "xmax": 2170,
+          "ymax": 2122
+        },
+        {
+          "text": "In",
+          "xmin": 2192,
+          "ymin": 2081,
+          "xmax": 2229,
+          "ymax": 2122
+        },
+        {
+          "text": "the",
+          "xmin": 224,
+          "ymin": 2156,
+          "xmax": 302,
+          "ymax": 2199
+        },
+        {
+          "text": "same",
+          "xmin": 320,
+          "ymin": 2168,
+          "xmax": 455,
+          "ymax": 2201
+        },
+        {
+          "text": "way",
+          "xmin": 472,
+          "ymin": 2168,
+          "xmax": 568,
+          "ymax": 2211
+        },
+        {
+          "text": "that",
+          "xmin": 583,
+          "ymin": 2156,
+          "xmax": 681,
+          "ymax": 2199
+        },
+        {
+          "text": "race",
+          "xmin": 698,
+          "ymin": 2168,
+          "xmax": 802,
+          "ymax": 2201
+        },
+        {
+          "text": "9",
+          "xmin": 798,
+          "ymin": 2172,
+          "xmax": 811,
+          "ymax": 2201
+        },
+        {
+          "text": "ethnicity,",
+          "xmin": 830,
+          "ymin": 2156,
+          "xmax": 1047,
+          "ymax": 2208
+        },
+        {
+          "text": "gender,",
+          "xmin": 1064,
+          "ymin": 2156,
+          "xmax": 1242,
+          "ymax": 2211
+        },
+        {
+          "text": "sexuality,",
+          "xmin": 1259,
+          "ymin": 2156,
+          "xmax": 1485,
+          "ymax": 2208
+        },
+        {
+          "text": "and",
+          "xmin": 1503,
+          "ymin": 2156,
+          "xmax": 1591,
+          "ymax": 2201
+        },
+        {
+          "text": "socio-economic",
+          "xmin": 1609,
+          "ymin": 2158,
+          "xmax": 2005,
+          "ymax": 2201
+        },
+        {
+          "text": "class",
+          "xmin": 2022,
+          "ymin": 2156,
+          "xmax": 2150,
+          "ymax": 2199
+        },
+        {
+          "text": "are",
+          "xmin": 2168,
+          "ymin": 2168,
+          "xmax": 2243,
+          "ymax": 2199
+        },
+        {
+          "text": "always",
+          "xmin": 226,
+          "ymin": 2234,
+          "xmax": 395,
+          "ymax": 2285
+        },
+        {
+          "text": "factors",
+          "xmin": 411,
+          "ymin": 2234,
+          "xmax": 587,
+          "ymax": 2279
+        },
+        {
+          "text": "in",
+          "xmin": 605,
+          "ymin": 2237,
+          "xmax": 645,
+          "ymax": 2278
+        },
+        {
+          "text": "cultural",
+          "xmin": 663,
+          "ymin": 2234,
+          "xmax": 844,
+          "ymax": 2279
+        },
+        {
+          "text": "interpretation",
+          "xmin": 864,
+          "ymin": 2236,
+          "xmax": 1193,
+          "ymax": 2284
+        },
+        {
+          "text": "and",
+          "xmin": 1212,
+          "ymin": 2234,
+          "xmax": 1300,
+          "ymax": 2279
+        },
+        {
+          "text": "understanding,",
+          "xmin": 1321,
+          "ymin": 2234,
+          "xmax": 1688,
+          "ymax": 2288
+        },
+        {
+          "text": "so",
+          "xmin": 1705,
+          "ymin": 2246,
+          "xmax": 1761,
+          "ymax": 2279
+        },
+        {
+          "text": "too",
+          "xmin": 1778,
+          "ymin": 2240,
+          "xmax": 1857,
+          "ymax": 2279
+        },
+        {
+          "text": "is",
+          "xmin": 1877,
+          "ymin": 2237,
+          "xmax": 1914,
+          "ymax": 2279
+        },
+        {
+          "text": "religion.",
+          "xmin": 1933,
+          "ymin": 2234,
+          "xmax": 2120,
+          "ymax": 2284
+        },
+        {
+          "text": "I",
+          "xmin": 2115,
+          "ymin": 2250,
+          "xmax": 2123,
+          "ymax": 2271
+        },
+        {
+          "text": "Whether",
+          "xmin": 226,
+          "ymin": 2365,
+          "xmax": 434,
+          "ymax": 2410
+        },
+        {
+          "text": "explicit",
+          "xmin": 449,
+          "ymin": 2365,
+          "xmax": 625,
+          "ymax": 2418
+        },
+        {
+          "text": "or",
+          "xmin": 641,
+          "ymin": 2377,
+          "xmax": 690,
+          "ymax": 2409
+        },
+        {
+          "text": "implicit,",
+          "xmin": 707,
+          "ymin": 2365,
+          "xmax": 897,
+          "ymax": 2416
+        },
+        {
+          "text": "religious",
+          "xmin": 916,
+          "ymin": 2365,
+          "xmax": 1125,
+          "ymax": 2416
+        },
+        {
+          "text": "influences",
+          "xmin": 1143,
+          "ymin": 2366,
+          "xmax": 1396,
+          "ymax": 2410
+        },
+        {
+          "text": "can",
+          "xmin": 1413,
+          "ymin": 2377,
+          "xmax": 1500,
+          "ymax": 2410
+        },
+        {
+          "text": "virtually",
+          "xmin": 1517,
+          "ymin": 2365,
+          "xmax": 1711,
+          "ymax": 2419
+        },
+        {
+          "text": "always",
+          "xmin": 1727,
+          "ymin": 2365,
+          "xmax": 1896,
+          "ymax": 2418
+        },
+        {
+          "text": "be",
+          "xmin": 1914,
+          "ymin": 2365,
+          "xmax": 1972,
+          "ymax": 2410
+        },
+        {
+          "text": "found",
+          "xmin": 1988,
+          "ymin": 2365,
+          "xmax": 2128,
+          "ymax": 2410
+        },
+        {
+          "text": "when",
+          "xmin": 2147,
+          "ymin": 2365,
+          "xmax": 2278,
+          "ymax": 2409
+        },
+        {
+          "text": "one",
+          "xmin": 226,
+          "ymin": 2456,
+          "xmax": 316,
+          "ymax": 2489
+        },
+        {
+          "text": "asks",
+          "xmin": 333,
+          "ymin": 2444,
+          "xmax": 445,
+          "ymax": 2489
+        },
+        {
+          "text": "\"the",
+          "xmin": 464,
+          "ymin": 2444,
+          "xmax": 560,
+          "ymax": 2489
+        },
+        {
+          "text": "religion",
+          "xmin": 578,
+          "ymin": 2444,
+          "xmax": 755,
+          "ymax": 2498
+        },
+        {
+          "text": "question\"",
+          "xmin": 775,
+          "ymin": 2444,
+          "xmax": 1004,
+          "ymax": 2492
+        },
+        {
+          "text": "of",
+          "xmin": 1023,
+          "ymin": 2444,
+          "xmax": 1075,
+          "ymax": 2487
+        },
+        {
+          "text": "any",
+          "xmin": 1090,
+          "ymin": 2456,
+          "xmax": 1176,
+          "ymax": 2501
+        },
+        {
+          "text": "given",
+          "xmin": 1191,
+          "ymin": 2446,
+          "xmax": 1320,
+          "ymax": 2499
+        },
+        {
+          "text": "social",
+          "xmin": 1338,
+          "ymin": 2444,
+          "xmax": 1482,
+          "ymax": 2489
+        },
+        {
+          "text": "or",
+          "xmin": 1502,
+          "ymin": 2456,
+          "xmax": 1551,
+          "ymax": 2487
+        },
+        {
+          "text": "historical",
+          "xmin": 1567,
+          "ymin": 2444,
+          "xmax": 1791,
+          "ymax": 2489
+        },
+        {
+          "text": "experience.",
+          "xmin": 1810,
+          "ymin": 2447,
+          "xmax": 2092,
+          "ymax": 2495
+        },
+        {
+          "text": "For",
+          "xmin": 2127,
+          "ymin": 2447,
+          "xmax": 2205,
+          "ymax": 2487
+        },
+        {
+          "text": "example",
+          "xmin": 226,
+          "ymin": 2522,
+          "xmax": 435,
+          "ymax": 2575
+        },
+        {
+          "text": "2",
+          "xmin": 431,
+          "ymin": 2537,
+          "xmax": 444,
+          "ymax": 2568
+        },
+        {
+          "text": "political",
+          "xmin": 466,
+          "ymin": 2522,
+          "xmax": 656,
+          "ymax": 2575
+        },
+        {
+          "text": "theorists",
+          "xmin": 673,
+          "ymin": 2522,
+          "xmax": 891,
+          "ymax": 2566
+        },
+        {
+          "text": "have",
+          "xmin": 910,
+          "ymin": 2522,
+          "xmax": 1023,
+          "ymax": 2566
+        },
+        {
+          "text": "recently",
+          "xmin": 1042,
+          "ymin": 2522,
+          "xmax": 1237,
+          "ymax": 2576
+        },
+        {
+          "text": "highlighted",
+          "xmin": 1253,
+          "ymin": 2522,
+          "xmax": 1525,
+          "ymax": 2576
+        },
+        {
+          "text": "the",
+          "xmin": 1541,
+          "ymin": 2522,
+          "xmax": 1619,
+          "ymax": 2566
+        },
+        {
+          "text": "ways",
+          "xmin": 1636,
+          "ymin": 2534,
+          "xmax": 1761,
+          "ymax": 2577
+        },
+        {
+          "text": "that",
+          "xmin": 1776,
+          "ymin": 2522,
+          "xmax": 1874,
+          "ymax": 2566
+        },
+        {
+          "text": "different",
+          "xmin": 1891,
+          "ymin": 2522,
+          "xmax": 2100,
+          "ymax": 2566
+        },
+        {
+          "text": "interpretations",
+          "xmin": 227,
+          "ymin": 2602,
+          "xmax": 588,
+          "ymax": 2653
+        },
+        {
+          "text": "of",
+          "xmin": 605,
+          "ymin": 2600,
+          "xmax": 655,
+          "ymax": 2643
+        },
+        {
+          "text": "secularism",
+          "xmin": 672,
+          "ymin": 2601,
+          "xmax": 939,
+          "ymax": 2645
+        },
+        {
+          "text": "have",
+          "xmin": 960,
+          "ymin": 2601,
+          "xmax": 1074,
+          "ymax": 2645
+        },
+        {
+          "text": "been",
+          "xmin": 1092,
+          "ymin": 2600,
+          "xmax": 1209,
+          "ymax": 2645
+        },
+        {
+          "text": "profoundly",
+          "xmin": 1229,
+          "ymin": 2600,
+          "xmax": 1493,
+          "ymax": 2654
+        },
+        {
+          "text": "shaped",
+          "xmin": 1509,
+          "ymin": 2600,
+          "xmax": 1688,
+          "ymax": 2653
+        },
+        {
+          "text": "by",
+          "xmin": 1708,
+          "ymin": 2600,
+          "xmax": 1762,
+          "ymax": 2656
+        },
+        {
+          "text": "varied",
+          "xmin": 1778,
+          "ymin": 2600,
+          "xmax": 1925,
+          "ymax": 2643
+        },
+        {
+          "text": "normative",
+          "xmin": 1946,
+          "ymin": 2602,
+          "xmax": 2193,
+          "ymax": 2645
+        },
+        {
+          "text": "assumptions",
+          "xmin": 226,
+          "ymin": 2680,
+          "xmax": 547,
+          "ymax": 2728
+        },
+        {
+          "text": "about",
+          "xmin": 565,
+          "ymin": 2679,
+          "xmax": 706,
+          "ymax": 2723
+        },
+        {
+          "text": "Christianity.[2]",
+          "xmin": 723,
+          "ymin": 2675,
+          "xmax": 1073,
+          "ymax": 2733
+        },
+        {
+          "text": "This",
+          "xmin": 1067,
+          "ymin": 2675,
+          "xmax": 1194,
+          "ymax": 2723
+        },
+        {
+          "text": "is",
+          "xmin": 1214,
+          "ymin": 2680,
+          "xmax": 1250,
+          "ymax": 2723
+        },
+        {
+          "text": "just",
+          "xmin": 1270,
+          "ymin": 2680,
+          "xmax": 1358,
+          "ymax": 2725
+        },
+        {
+          "text": "one",
+          "xmin": 1374,
+          "ymin": 2690,
+          "xmax": 1464,
+          "ymax": 2723
+        },
+        {
+          "text": "representation",
+          "xmin": 1482,
+          "ymin": 2681,
+          "xmax": 1837,
+          "ymax": 2731
+        },
+        {
+          "text": "of",
+          "xmin": 1858,
+          "ymin": 2678,
+          "xmax": 1908,
+          "ymax": 2723
+        },
+        {
+          "text": "a",
+          "xmin": 1923,
+          "ymin": 2690,
+          "xmax": 1947,
+          "ymax": 2720
+        },
+        {
+          "text": "fundamental",
+          "xmin": 1967,
+          "ymin": 2678,
+          "xmax": 2280,
+          "ymax": 2723
+        },
+        {
+          "text": "shift",
+          "xmin": 226,
+          "ymin": 2756,
+          "xmax": 335,
+          "ymax": 2799
+        },
+        {
+          "text": "in",
+          "xmin": 354,
+          "ymin": 2759,
+          "xmax": 390,
+          "ymax": 2799
+        },
+        {
+          "text": "political",
+          "xmin": 411,
+          "ymin": 2756,
+          "xmax": 602,
+          "ymax": 2809
+        },
+        {
+          "text": "theory",
+          "xmin": 619,
+          "ymin": 2756,
+          "xmax": 776,
+          "ymax": 2812
+        },
+        {
+          "text": "that",
+          "xmin": 790,
+          "ymin": 2756,
+          "xmax": 888,
+          "ymax": 2799
+        },
+        {
+          "text": "is",
+          "xmin": 907,
+          "ymin": 2759,
+          "xmax": 944,
+          "ymax": 2799
+        },
+        {
+          "text": "challenging",
+          "xmin": 961,
+          "ymin": 2756,
+          "xmax": 1243,
+          "ymax": 2811
+        },
+        {
+          "text": "the",
+          "xmin": 1261,
+          "ymin": 2756,
+          "xmax": 1339,
+          "ymax": 2799
+        },
+        {
+          "text": "legitimacy",
+          "xmin": 1358,
+          "ymin": 2756,
+          "xmax": 1611,
+          "ymax": 2811
+        },
+        {
+          "text": "of",
+          "xmin": 1627,
+          "ymin": 2756,
+          "xmax": 1678,
+          "ymax": 2799
+        },
+        {
+          "text": "the",
+          "xmin": 1690,
+          "ymin": 2756,
+          "xmax": 1769,
+          "ymax": 2799
+        },
+        {
+          "text": "longstanding",
+          "xmin": 1787,
+          "ymin": 2756,
+          "xmax": 2106,
+          "ymax": 2811
+        },
+        {
+          "text": "assertion",
+          "xmin": 227,
+          "ymin": 2840,
+          "xmax": 456,
+          "ymax": 2882
+        },
+        {
+          "text": "that",
+          "xmin": 472,
+          "ymin": 2837,
+          "xmax": 570,
+          "ymax": 2882
+        },
+        {
+          "text": "religion",
+          "xmin": 587,
+          "ymin": 2837,
+          "xmax": 767,
+          "ymax": 2892
+        },
+        {
+          "text": "both",
+          "xmin": 786,
+          "ymin": 2837,
+          "xmax": 894,
+          "ymax": 2882
+        },
+        {
+          "text": "can",
+          "xmin": 912,
+          "ymin": 2849,
+          "xmax": 999,
+          "ymax": 2882
+        },
+        {
+          "text": "be",
+          "xmin": 1018,
+          "ymin": 2837,
+          "xmax": 1075,
+          "ymax": 2882
+        },
+        {
+          "text": "and",
+          "xmin": 1093,
+          "ymin": 2837,
+          "xmax": 1180,
+          "ymax": 2882
+        },
+        {
+          "text": "should",
+          "xmin": 1199,
+          "ymin": 2837,
+          "xmax": 1363,
+          "ymax": 2882
+        },
+        {
+          "text": "be",
+          "xmin": 1383,
+          "ymin": 2837,
+          "xmax": 1439,
+          "ymax": 2882
+        },
+        {
+          "text": "restricted",
+          "xmin": 1458,
+          "ymin": 2837,
+          "xmax": 1689,
+          "ymax": 2882
+        },
+        {
+          "text": "to",
+          "xmin": 1707,
+          "ymin": 2843,
+          "xmax": 1755,
+          "ymax": 2882
+        },
+        {
+          "text": "a",
+          "xmin": 1773,
+          "ymin": 2849,
+          "xmax": 1796,
+          "ymax": 2879
+        },
+        {
+          "text": "private",
+          "xmin": 1818,
+          "ymin": 2839,
+          "xmax": 1985,
+          "ymax": 2887
+        },
+        {
+          "text": "sphere",
+          "xmin": 2002,
+          "ymin": 2837,
+          "xmax": 2167,
+          "ymax": 2889
+        },
+        {
+          "text": "and",
+          "xmin": 2186,
+          "ymin": 2837,
+          "xmax": 2273,
+          "ymax": 2882
+        },
+        {
+          "text": "separated",
+          "xmin": 226,
+          "ymin": 2915,
+          "xmax": 471,
+          "ymax": 2968
+        },
+        {
+          "text": "from",
+          "xmin": 489,
+          "ymin": 2915,
+          "xmax": 605,
+          "ymax": 2960
+        },
+        {
+          "text": "political",
+          "xmin": 624,
+          "ymin": 2915,
+          "xmax": 815,
+          "ymax": 2967
+        },
+        {
+          "text": "influence.",
+          "xmin": 835,
+          "ymin": 2915,
+          "xmax": 1065,
+          "ymax": 2960
+        },
+        {
+          "text": "Modernist",
+          "xmin": 228,
+          "ymin": 3044,
+          "xmax": 478,
+          "ymax": 3087
+        },
+        {
+          "text": "claims",
+          "xmin": 494,
+          "ymin": 3044,
+          "xmax": 656,
+          "ymax": 3089
+        },
+        {
+          "text": "predicting",
+          "xmin": 675,
+          "ymin": 3044,
+          "xmax": 919,
+          "ymax": 3098
+        },
+        {
+          "text": "the",
+          "xmin": 935,
+          "ymin": 3044,
+          "xmax": 1014,
+          "ymax": 3089
+        },
+        {
+          "text": "steady",
+          "xmin": 1030,
+          "ymin": 3044,
+          "xmax": 1195,
+          "ymax": 3099
+        },
+        {
+          "text": "decline",
+          "xmin": 1210,
+          "ymin": 3044,
+          "xmax": 1387,
+          "ymax": 3087
+        },
+        {
+          "text": "of",
+          "xmin": 1404,
+          "ymin": 3044,
+          "xmax": 1455,
+          "ymax": 3087
+        },
+        {
+          "text": "the",
+          "xmin": 1467,
+          "ymin": 3044,
+          "xmax": 1544,
+          "ymax": 3087
+        },
+        {
+          "text": "transnational",
+          "xmin": 1560,
+          "ymin": 3044,
+          "xmax": 1886,
+          "ymax": 3089
+        },
+        {
+          "text": "political",
+          "xmin": 1906,
+          "ymin": 3044,
+          "xmax": 2097,
+          "ymax": 3095
+        },
+        {
+          "text": "influence",
+          "xmin": 228,
+          "ymin": 3122,
+          "xmax": 451,
+          "ymax": 3167
+        },
+        {
+          "text": "of",
+          "xmin": 468,
+          "ymin": 3122,
+          "xmax": 519,
+          "ymax": 3167
+        },
+        {
+          "text": "religion",
+          "xmin": 534,
+          "ymin": 3122,
+          "xmax": 711,
+          "ymax": 3175
+        },
+        {
+          "text": "that",
+          "xmin": 729,
+          "ymin": 3122,
+          "xmax": 827,
+          "ymax": 3167
+        },
+        {
+          "text": "were",
+          "xmin": 844,
+          "ymin": 3134,
+          "xmax": 960,
+          "ymax": 3167
+        },
+        {
+          "text": "first",
+          "xmin": 976,
+          "ymin": 3122,
+          "xmax": 1074,
+          "ymax": 3167
+        },
+        {
+          "text": "formalized",
+          "xmin": 1089,
+          "ymin": 3122,
+          "xmax": 1352,
+          "ymax": 3167
+        },
+        {
+          "text": "in",
+          "xmin": 1372,
+          "ymin": 3125,
+          "xmax": 1410,
+          "ymax": 3166
+        },
+        {
+          "text": "the",
+          "xmin": 1427,
+          "ymin": 3122,
+          "xmax": 1506,
+          "ymax": 3167
+        },
+        {
+          "text": "seventeenth",
+          "xmin": 1523,
+          "ymin": 3122,
+          "xmax": 1821,
+          "ymax": 3167
+        },
+        {
+          "text": "century",
+          "xmin": 1841,
+          "ymin": 3128,
+          "xmax": 2024,
+          "ymax": 3175
+        },
+        {
+          "text": "have",
+          "xmin": 2042,
+          "ymin": 3122,
+          "xmax": 2155,
+          "ymax": 3167
+        },
+        {
+          "text": "been",
+          "xmin": 2174,
+          "ymin": 3122,
+          "xmax": 2290,
+          "ymax": 3167
+        },
+        {
+          "text": "foundational",
+          "xmin": 226,
+          "ymin": 3200,
+          "xmax": 537,
+          "ymax": 3243
+        },
+        {
+          "text": "to",
+          "xmin": 554,
+          "ymin": 3206,
+          "xmax": 601,
+          "ymax": 3245
+        },
+        {
+          "text": "various",
+          "xmin": 618,
+          "ymin": 3202,
+          "xmax": 799,
+          "ymax": 3243
+        },
+        {
+          "text": "modern",
+          "xmin": 817,
+          "ymin": 3200,
+          "xmax": 1004,
+          "ymax": 3243
+        },
+        {
+          "text": "political",
+          "xmin": 1024,
+          "ymin": 3201,
+          "xmax": 1215,
+          "ymax": 3252
+        },
+        {
+          "text": "theories",
+          "xmin": 1231,
+          "ymin": 3200,
+          "xmax": 1432,
+          "ymax": 3243
+        },
+        {
+          "text": "for",
+          "xmin": 1450,
+          "ymin": 3200,
+          "xmax": 1519,
+          "ymax": 3245
+        },
+        {
+          "text": "centuries.",
+          "xmin": 1535,
+          "ymin": 3202,
+          "xmax": 1769,
+          "ymax": 3243
+        },
+        {
+          "text": "|",
+          "xmin": 1769,
+          "ymin": 3237,
+          "xmax": 1772,
+          "ymax": 3238
+        }
+      ],
+      "raw_text": "All of these comments represent particular theological assertions as opposed to factual claims representing the tradition itself Religions evolve and change This is another truism but again requires explanation due to the common practice of representing religious traditions without social or historical context and solely (or primarily 7 through ritual expression and/or abstract beliefs. Religions exist in time and space and are constantly interpreted and reinterpreted by believers. For example, the Confucian concept of the \"mandate from heaven\" evolved within dynasties | geopolitical regions S and historical eras and continues to evolve today | Another example is that the practice of slavery has been both justified and vilified by all three monotheistic traditions in differing social and historical contexts. Finally, in a more specific example, the Southern Baptist convention in the United States passed a series of resolutions in the 1970s supporting the moral legitimacy of abortion in certain cases and reversed those resolutions in 2003.[11 Religious influences are embedded in cultures Religions are collections of ideas S practices E values 5 and stories that are all embedded in cultures and not separable from them. Just as religion cannot be understood in isolation from its cultural (including political) contexts S. it is impossible to understand culture without considering its religious dimensions. In the same way that race 9 ethnicity, gender, sexuality, and socio-economic class are always factors in cultural interpretation and understanding, so too is religion. I Whether explicit or implicit, religious influences can virtually always be found when one asks \"the religion question\" of any given social or historical experience. For example 2 political theorists have recently highlighted the ways that different interpretations of secularism have been profoundly shaped by varied normative assumptions about Christianity.[2] This is just one representation of a fundamental shift in political theory that is challenging the legitimacy of the longstanding assertion that religion both can be and should be restricted to a private sphere and separated from political influence. Modernist claims predicting the steady decline of the transnational political influence of religion that were first formalized in the seventeenth century have been foundational to various modern political theories for centuries. | "
+    },
+    {
+      "page": 3,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/c3700a7f-eb02-41bf-b63a-3801721c243b-4.jpeg?ik-s=726b38f65ac0b87a25bcce02cbd1df828f27edfe&ik-t=1747195778",
+      "size": {
+        "width": 2479,
+        "height": 3508
+      },
+      "words": [
+        {
+          "text": "In",
+          "xmin": 229,
+          "ymin": 162,
+          "xmax": 266,
+          "ymax": 203
+        },
+        {
+          "text": "spite",
+          "xmin": 286,
+          "ymin": 162,
+          "xmax": 404,
+          "ymax": 210
+        },
+        {
+          "text": "of",
+          "xmin": 423,
+          "ymin": 159,
+          "xmax": 474,
+          "ymax": 204
+        },
+        {
+          "text": "the",
+          "xmin": 486,
+          "ymin": 160,
+          "xmax": 565,
+          "ymax": 204
+        },
+        {
+          "text": "ongoing",
+          "xmin": 582,
+          "ymin": 161,
+          "xmax": 780,
+          "ymax": 212
+        },
+        {
+          "text": "global",
+          "xmin": 800,
+          "ymin": 159,
+          "xmax": 947,
+          "ymax": 213
+        },
+        {
+          "text": "influences",
+          "xmin": 968,
+          "ymin": 159,
+          "xmax": 1220,
+          "ymax": 204
+        },
+        {
+          "text": "of",
+          "xmin": 1237,
+          "ymin": 159,
+          "xmax": 1288,
+          "ymax": 204
+        },
+        {
+          "text": "religions",
+          "xmin": 1303,
+          "ymin": 159,
+          "xmax": 1511,
+          "ymax": 212
+        },
+        {
+          "text": "in",
+          "xmin": 1531,
+          "ymin": 161,
+          "xmax": 1569,
+          "ymax": 203
+        },
+        {
+          "text": "political",
+          "xmin": 1589,
+          "ymin": 159,
+          "xmax": 1779,
+          "ymax": 213
+        },
+        {
+          "text": "life",
+          "xmin": 1801,
+          "ymin": 159,
+          "xmax": 1871,
+          "ymax": 204
+        },
+        {
+          "text": "throughout",
+          "xmin": 1887,
+          "ymin": 160,
+          "xmax": 2161,
+          "ymax": 215
+        },
+        {
+          "text": "this",
+          "xmin": 2176,
+          "ymin": 159,
+          "xmax": 2266,
+          "ymax": 204
+        },
+        {
+          "text": "time",
+          "xmin": 224,
+          "ymin": 239,
+          "xmax": 333,
+          "ymax": 281
+        },
+        {
+          "text": "period",
+          "xmin": 352,
+          "ymin": 237,
+          "xmax": 504,
+          "ymax": 290
+        },
+        {
+          "text": "|",
+          "xmin": 511,
+          "ymin": 273,
+          "xmax": 514,
+          "ymax": 278
+        },
+        {
+          "text": "it",
+          "xmin": 535,
+          "ymin": 239,
+          "xmax": 564,
+          "ymax": 279
+        },
+        {
+          "text": "is",
+          "xmin": 582,
+          "ymin": 239,
+          "xmax": 620,
+          "ymax": 281
+        },
+        {
+          "text": "only",
+          "xmin": 637,
+          "ymin": 237,
+          "xmax": 738,
+          "ymax": 290
+        },
+        {
+          "text": "in",
+          "xmin": 755,
+          "ymin": 239,
+          "xmax": 793,
+          "ymax": 281
+        },
+        {
+          "text": "the",
+          "xmin": 811,
+          "ymin": 237,
+          "xmax": 889,
+          "ymax": 281
+        },
+        {
+          "text": "aftermath",
+          "xmin": 907,
+          "ymin": 237,
+          "xmax": 1147,
+          "ymax": 281
+        },
+        {
+          "text": "of",
+          "xmin": 1167,
+          "ymin": 237,
+          "xmax": 1218,
+          "ymax": 282
+        },
+        {
+          "text": "1)",
+          "xmin": 1234,
+          "ymin": 235,
+          "xmax": 1279,
+          "ymax": 285
+        },
+        {
+          "text": "the",
+          "xmin": 1296,
+          "ymin": 237,
+          "xmax": 1374,
+          "ymax": 281
+        },
+        {
+          "text": "Iranian",
+          "xmin": 1394,
+          "ymin": 239,
+          "xmax": 1555,
+          "ymax": 281
+        },
+        {
+          "text": "Revolution",
+          "xmin": 1577,
+          "ymin": 237,
+          "xmax": 1832,
+          "ymax": 281
+        },
+        {
+          "text": "in",
+          "xmin": 1854,
+          "ymin": 239,
+          "xmax": 1892,
+          "ymax": 281
+        },
+        {
+          "text": "1979",
+          "xmin": 1913,
+          "ymin": 239,
+          "xmax": 2032,
+          "ymax": 281
+        },
+        {
+          "text": ":",
+          "xmin": 2032,
+          "ymin": 250,
+          "xmax": 2044,
+          "ymax": 279
+        },
+        {
+          "text": "2)",
+          "xmin": 2064,
+          "ymin": 235,
+          "xmax": 2109,
+          "ymax": 281
+        },
+        {
+          "text": "the",
+          "xmin": 2126,
+          "ymin": 237,
+          "xmax": 2204,
+          "ymax": 281
+        },
+        {
+          "text": "fall",
+          "xmin": 2220,
+          "ymin": 237,
+          "xmax": 2294,
+          "ymax": 282
+        },
+        {
+          "text": "of",
+          "xmin": 226,
+          "ymin": 315,
+          "xmax": 276,
+          "ymax": 358
+        },
+        {
+          "text": "the",
+          "xmin": 290,
+          "ymin": 315,
+          "xmax": 368,
+          "ymax": 360
+        },
+        {
+          "text": "Berlin",
+          "xmin": 387,
+          "ymin": 315,
+          "xmax": 523,
+          "ymax": 360
+        },
+        {
+          "text": "wall",
+          "xmin": 540,
+          "ymin": 315,
+          "xmax": 637,
+          "ymax": 360
+        },
+        {
+          "text": "in",
+          "xmin": 656,
+          "ymin": 317,
+          "xmax": 693,
+          "ymax": 359
+        },
+        {
+          "text": "1989",
+          "xmin": 716,
+          "ymin": 317,
+          "xmax": 835,
+          "ymax": 358
+        },
+        {
+          "text": "and",
+          "xmin": 854,
+          "ymin": 315,
+          "xmax": 941,
+          "ymax": 360
+        },
+        {
+          "text": "the",
+          "xmin": 960,
+          "ymin": 315,
+          "xmax": 1038,
+          "ymax": 360
+        },
+        {
+          "text": "subsequent",
+          "xmin": 1055,
+          "ymin": 315,
+          "xmax": 1345,
+          "ymax": 367
+        },
+        {
+          "text": "rise",
+          "xmin": 1363,
+          "ymin": 317,
+          "xmax": 1450,
+          "ymax": 360
+        },
+        {
+          "text": "VS.",
+          "xmin": 1466,
+          "ymin": 327,
+          "xmax": 1533,
+          "ymax": 360
+        },
+        {
+          "text": "the",
+          "xmin": 1550,
+          "ymin": 315,
+          "xmax": 1629,
+          "ymax": 360
+        },
+        {
+          "text": "wi",
+          "xmin": 1644,
+          "ymin": 318,
+          "xmax": 1692,
+          "ymax": 359
+        },
+        {
+          "text": "videly",
+          "xmin": 1681,
+          "ymin": 315,
+          "xmax": 1801,
+          "ymax": 369
+        },
+        {
+          "text": "predicted",
+          "xmin": 1818,
+          "ymin": 315,
+          "xmax": 2047,
+          "ymax": 366
+        },
+        {
+          "text": "demise",
+          "xmin": 2066,
+          "ymin": 316,
+          "xmax": 2246,
+          "ymax": 360
+        },
+        {
+          "text": "of",
+          "xmin": 2263,
+          "ymin": 315,
+          "xmax": 2314,
+          "ymax": 360
+        },
+        {
+          "text": "religion",
+          "xmin": 227,
+          "ymin": 395,
+          "xmax": 406,
+          "ymax": 445
+        },
+        {
+          "text": "1",
+          "xmin": 405,
+          "ymin": 407,
+          "xmax": 415,
+          "ymax": 434
+        },
+        {
+          "text": "and",
+          "xmin": 436,
+          "ymin": 394,
+          "xmax": 525,
+          "ymax": 439
+        },
+        {
+          "text": "3",
+          "xmin": 544,
+          "ymin": 396,
+          "xmax": 570,
+          "ymax": 437
+        },
+        {
+          "text": ")",
+          "xmin": 575,
+          "ymin": 396,
+          "xmax": 586,
+          "ymax": 438
+        },
+        {
+          "text": "the",
+          "xmin": 606,
+          "ymin": 395,
+          "xmax": 684,
+          "ymax": 437
+        },
+        {
+          "text": "9/11",
+          "xmin": 703,
+          "ymin": 396,
+          "xmax": 808,
+          "ymax": 442
+        },
+        {
+          "text": "and",
+          "xmin": 834,
+          "ymin": 394,
+          "xmax": 922,
+          "ymax": 439
+        },
+        {
+          "text": "7/7",
+          "xmin": 941,
+          "ymin": 397,
+          "xmax": 1023,
+          "ymax": 437
+        },
+        {
+          "text": "attacks",
+          "xmin": 1041,
+          "ymin": 394,
+          "xmax": 1223,
+          "ymax": 439
+        },
+        {
+          "text": "that",
+          "xmin": 1238,
+          "ymin": 395,
+          "xmax": 1336,
+          "ymax": 439
+        },
+        {
+          "text": "political",
+          "xmin": 1355,
+          "ymin": 394,
+          "xmax": 1545,
+          "ymax": 445
+        },
+        {
+          "text": "theorists",
+          "xmin": 1561,
+          "ymin": 394,
+          "xmax": 1781,
+          "ymax": 439
+        },
+        {
+          "text": "in",
+          "xmin": 1800,
+          "ymin": 396,
+          "xmax": 1837,
+          "ymax": 437
+        },
+        {
+          "text": "the",
+          "xmin": 1855,
+          "ymin": 395,
+          "xmax": 1933,
+          "ymax": 437
+        },
+        {
+          "text": "West",
+          "xmin": 1950,
+          "ymin": 397,
+          "xmax": 2074,
+          "ymax": 439
+        },
+        {
+          "text": "began",
+          "xmin": 2091,
+          "ymin": 394,
+          "xmax": 2241,
+          "ymax": 450
+        },
+        {
+          "text": "to",
+          "xmin": 2257,
+          "ymin": 400,
+          "xmax": 2303,
+          "ymax": 439
+        },
+        {
+          "text": "acknowledge",
+          "xmin": 227,
+          "ymin": 472,
+          "xmax": 554,
+          "ymax": 526
+        },
+        {
+          "text": "the",
+          "xmin": 570,
+          "ymin": 472,
+          "xmax": 647,
+          "ymax": 516
+        },
+        {
+          "text": "highly",
+          "xmin": 665,
+          "ymin": 472,
+          "xmax": 810,
+          "ymax": 525
+        },
+        {
+          "text": "problematic",
+          "xmin": 826,
+          "ymin": 472,
+          "xmax": 1120,
+          "ymax": 525
+        },
+        {
+          "text": "ways",
+          "xmin": 1137,
+          "ymin": 484,
+          "xmax": 1262,
+          "ymax": 525
+        },
+        {
+          "text": "that",
+          "xmin": 1278,
+          "ymin": 472,
+          "xmax": 1375,
+          "ymax": 516
+        },
+        {
+          "text": "religions",
+          "xmin": 1393,
+          "ymin": 472,
+          "xmax": 1602,
+          "ymax": 525
+        },
+        {
+          "text": "and",
+          "xmin": 1619,
+          "ymin": 472,
+          "xmax": 1706,
+          "ymax": 516
+        },
+        {
+          "text": "religious",
+          "xmin": 1728,
+          "ymin": 472,
+          "xmax": 1936,
+          "ymax": 526
+        },
+        {
+          "text": "influences",
+          "xmin": 1955,
+          "ymin": 472,
+          "xmax": 2207,
+          "ymax": 517
+        },
+        {
+          "text": "have",
+          "xmin": 227,
+          "ymin": 553,
+          "xmax": 341,
+          "ymax": 596
+        },
+        {
+          "text": "been",
+          "xmin": 359,
+          "ymin": 553,
+          "xmax": 476,
+          "ymax": 598
+        },
+        {
+          "text": "marginalized",
+          "xmin": 495,
+          "ymin": 553,
+          "xmax": 810,
+          "ymax": 605
+        },
+        {
+          "text": "and",
+          "xmin": 831,
+          "ymin": 553,
+          "xmax": 917,
+          "ymax": 596
+        },
+        {
+          "text": "too",
+          "xmin": 935,
+          "ymin": 559,
+          "xmax": 1015,
+          "ymax": 598
+        },
+        {
+          "text": "simplistically",
+          "xmin": 1033,
+          "ymin": 553,
+          "xmax": 1358,
+          "ymax": 604
+        },
+        {
+          "text": "rendered",
+          "xmin": 1374,
+          "ymin": 553,
+          "xmax": 1596,
+          "ymax": 596
+        },
+        {
+          "text": "I",
+          "xmin": 1592,
+          "ymin": 567,
+          "xmax": 1600,
+          "ymax": 586
+        },
+        {
+          "text": "This",
+          "xmin": 225,
+          "ymin": 681,
+          "xmax": 330,
+          "ymax": 725
+        },
+        {
+          "text": "shift",
+          "xmin": 347,
+          "ymin": 681,
+          "xmax": 456,
+          "ymax": 725
+        },
+        {
+          "text": "is",
+          "xmin": 475,
+          "ymin": 683,
+          "xmax": 511,
+          "ymax": 725
+        },
+        {
+          "text": "a",
+          "xmin": 530,
+          "ymin": 693,
+          "xmax": 552,
+          "ymax": 722
+        },
+        {
+          "text": "welcome",
+          "xmin": 573,
+          "ymin": 681,
+          "xmax": 797,
+          "ymax": 726
+        },
+        {
+          "text": "one",
+          "xmin": 814,
+          "ymin": 693,
+          "xmax": 905,
+          "ymax": 726
+        },
+        {
+          "text": "and",
+          "xmin": 922,
+          "ymin": 681,
+          "xmax": 1010,
+          "ymax": 725
+        },
+        {
+          "text": "paves",
+          "xmin": 1030,
+          "ymin": 693,
+          "xmax": 1172,
+          "ymax": 734
+        },
+        {
+          "text": "the",
+          "xmin": 1188,
+          "ymin": 681,
+          "xmax": 1267,
+          "ymax": 725
+        },
+        {
+          "text": "way",
+          "xmin": 1282,
+          "ymin": 693,
+          "xmax": 1380,
+          "ymax": 737
+        },
+        {
+          "text": "for",
+          "xmin": 1395,
+          "ymin": 681,
+          "xmax": 1466,
+          "ymax": 726
+        },
+        {
+          "text": "multi",
+          "xmin": 1482,
+          "ymin": 681,
+          "xmax": 1602,
+          "ymax": 725
+        },
+        {
+          "text": "and",
+          "xmin": 1621,
+          "ymin": 681,
+          "xmax": 1709,
+          "ymax": 725
+        },
+        {
+          "text": "cross-disciplinary",
+          "xmin": 1728,
+          "ymin": 681,
+          "xmax": 2164,
+          "ymax": 733
+        },
+        {
+          "text": "collaborations",
+          "xmin": 226,
+          "ymin": 759,
+          "xmax": 579,
+          "ymax": 804
+        },
+        {
+          "text": "with",
+          "xmin": 595,
+          "ymin": 759,
+          "xmax": 697,
+          "ymax": 804
+        },
+        {
+          "text": "religious",
+          "xmin": 716,
+          "ymin": 760,
+          "xmax": 925,
+          "ymax": 814
+        },
+        {
+          "text": "studies",
+          "xmin": 942,
+          "ymin": 759,
+          "xmax": 1121,
+          "ymax": 804
+        },
+        {
+          "text": "scholars",
+          "xmin": 1139,
+          "ymin": 760,
+          "xmax": 1350,
+          "ymax": 804
+        },
+        {
+          "text": "across",
+          "xmin": 1367,
+          "ymin": 771,
+          "xmax": 1531,
+          "ymax": 804
+        },
+        {
+          "text": "the",
+          "xmin": 1547,
+          "ymin": 759,
+          "xmax": 1626,
+          "ymax": 804
+        },
+        {
+          "text": "full",
+          "xmin": 1642,
+          "ymin": 759,
+          "xmax": 1715,
+          "ymax": 804
+        },
+        {
+          "text": "range",
+          "xmin": 1735,
+          "ymin": 771,
+          "xmax": 1873,
+          "ymax": 812
+        },
+        {
+          "text": "of",
+          "xmin": 1889,
+          "ymin": 759,
+          "xmax": 1941,
+          "ymax": 804
+        },
+        {
+          "text": "social",
+          "xmin": 1955,
+          "ymin": 760,
+          "xmax": 2099,
+          "ymax": 804
+        },
+        {
+          "text": "science",
+          "xmin": 2118,
+          "ymin": 762,
+          "xmax": 2306,
+          "ymax": 804
+        },
+        {
+          "text": "investigations",
+          "xmin": 227,
+          "ymin": 839,
+          "xmax": 571,
+          "ymax": 889
+        },
+        {
+          "text": "in",
+          "xmin": 591,
+          "ymin": 840,
+          "xmax": 629,
+          "ymax": 881
+        },
+        {
+          "text": "order",
+          "xmin": 648,
+          "ymin": 837,
+          "xmax": 778,
+          "ymax": 881
+        },
+        {
+          "text": "to",
+          "xmin": 791,
+          "ymin": 843,
+          "xmax": 840,
+          "ymax": 881
+        },
+        {
+          "text": "explore",
+          "xmin": 857,
+          "ymin": 837,
+          "xmax": 1037,
+          "ymax": 886
+        },
+        {
+          "text": "the",
+          "xmin": 1052,
+          "ymin": 837,
+          "xmax": 1130,
+          "ymax": 881
+        },
+        {
+          "text": "complex",
+          "xmin": 1147,
+          "ymin": 837,
+          "xmax": 1358,
+          "ymax": 889
+        },
+        {
+          "text": "and",
+          "xmin": 1375,
+          "ymin": 837,
+          "xmax": 1462,
+          "ymax": 881
+        },
+        {
+          "text": "critically",
+          "xmin": 1482,
+          "ymin": 837,
+          "xmax": 1688,
+          "ymax": 890
+        },
+        {
+          "text": "important",
+          "xmin": 1707,
+          "ymin": 839,
+          "xmax": 1948,
+          "ymax": 889
+        },
+        {
+          "text": "roles",
+          "xmin": 1965,
+          "ymin": 837,
+          "xmax": 2084,
+          "ymax": 881
+        },
+        {
+          "text": "that",
+          "xmin": 2099,
+          "ymin": 837,
+          "xmax": 2197,
+          "ymax": 881
+        },
+        {
+          "text": "religions",
+          "xmin": 227,
+          "ymin": 915,
+          "xmax": 435,
+          "ymax": 966
+        },
+        {
+          "text": "play",
+          "xmin": 454,
+          "ymin": 915,
+          "xmax": 552,
+          "ymax": 969
+        },
+        {
+          "text": "in",
+          "xmin": 571,
+          "ymin": 917,
+          "xmax": 610,
+          "ymax": 959
+        },
+        {
+          "text": "our",
+          "xmin": 628,
+          "ymin": 927,
+          "xmax": 708,
+          "ymax": 960
+        },
+        {
+          "text": "contemporary",
+          "xmin": 724,
+          "ymin": 921,
+          "xmax": 1071,
+          "ymax": 969
+        },
+        {
+          "text": "world",
+          "xmin": 1085,
+          "ymin": 916,
+          "xmax": 1221,
+          "ymax": 960
+        },
+        {
+          "text": "Endnotes",
+          "xmin": 226,
+          "ymin": 1143,
+          "xmax": 548,
+          "ymax": 1203
+        },
+        {
+          "text": "1.",
+          "xmin": 243,
+          "ymin": 1290,
+          "xmax": 281,
+          "ymax": 1326
+        },
+        {
+          "text": "For",
+          "xmin": 303,
+          "ymin": 1290,
+          "xmax": 382,
+          "ymax": 1330
+        },
+        {
+          "text": "a",
+          "xmin": 398,
+          "ymin": 1299,
+          "xmax": 421,
+          "ymax": 1328
+        },
+        {
+          "text": "full",
+          "xmin": 440,
+          "ymin": 1287,
+          "xmax": 514,
+          "ymax": 1330
+        },
+        {
+          "text": "text",
+          "xmin": 531,
+          "ymin": 1293,
+          "xmax": 625,
+          "ymax": 1330
+        },
+        {
+          "text": "compilation",
+          "xmin": 642,
+          "ymin": 1287,
+          "xmax": 933,
+          "ymax": 1336
+        },
+        {
+          "text": "of",
+          "xmin": 951,
+          "ymin": 1287,
+          "xmax": 1002,
+          "ymax": 1330
+        },
+        {
+          "text": "all",
+          "xmin": 1017,
+          "ymin": 1287,
+          "xmax": 1070,
+          "ymax": 1330
+        },
+        {
+          "text": "the",
+          "xmin": 1087,
+          "ymin": 1288,
+          "xmax": 1165,
+          "ymax": 1330
+        },
+        {
+          "text": "Southern",
+          "xmin": 1182,
+          "ymin": 1288,
+          "xmax": 1404,
+          "ymax": 1330
+        },
+        {
+          "text": "Baptist",
+          "xmin": 1424,
+          "ymin": 1289,
+          "xmax": 1596,
+          "ymax": 1341
+        },
+        {
+          "text": "resolutions",
+          "xmin": 1613,
+          "ymin": 1288,
+          "xmax": 1887,
+          "ymax": 1332
+        },
+        {
+          "text": "on",
+          "xmin": 1905,
+          "ymin": 1299,
+          "xmax": 1964,
+          "ymax": 1332
+        },
+        {
+          "text": "abortion",
+          "xmin": 1983,
+          "ymin": 1287,
+          "xmax": 2188,
+          "ymax": 1330
+        },
+        {
+          "text": "from",
+          "xmin": 2205,
+          "ymin": 1287,
+          "xmax": 2320,
+          "ymax": 1330
+        },
+        {
+          "text": "1971-2005",
+          "xmin": 304,
+          "ymin": 1367,
+          "xmax": 566,
+          "ymax": 1410
+        },
+        {
+          "text": "O",
+          "xmin": 563,
+          "ymin": 1385,
+          "xmax": 575,
+          "ymax": 1408
+        },
+        {
+          "text": "see",
+          "xmin": 594,
+          "ymin": 1377,
+          "xmax": 679,
+          "ymax": 1410
+        },
+        {
+          "text": "http://www.johnstonsarchive",
+          "xmin": 696,
+          "ymin": 1365,
+          "xmax": 1421,
+          "ymax": 1415
+        },
+        {
+          "text": "net/baptist/sbcabres.htm",
+          "xmin": 1411,
+          "ymin": 1365,
+          "xmax": 2073,
+          "ymax": 1417
+        },
+        {
+          "text": "2.",
+          "xmin": 242,
+          "ymin": 1486,
+          "xmax": 281,
+          "ymax": 1524
+        },
+        {
+          "text": "See",
+          "xmin": 301,
+          "ymin": 1486,
+          "xmax": 390,
+          "ymax": 1528
+        },
+        {
+          "text": "Charles",
+          "xmin": 410,
+          "ymin": 1484,
+          "xmax": 594,
+          "ymax": 1528
+        },
+        {
+          "text": "Taylor,",
+          "xmin": 610,
+          "ymin": 1484,
+          "xmax": 766,
+          "ymax": 1536
+        },
+        {
+          "text": "A",
+          "xmin": 783,
+          "ymin": 1488,
+          "xmax": 817,
+          "ymax": 1526
+        },
+        {
+          "text": "Secular",
+          "xmin": 834,
+          "ymin": 1484,
+          "xmax": 1016,
+          "ymax": 1528
+        },
+        {
+          "text": "Age",
+          "xmin": 1026,
+          "ymin": 1487,
+          "xmax": 1122,
+          "ymax": 1536
+        },
+        {
+          "text": "(",
+          "xmin": 1141,
+          "ymin": 1482,
+          "xmax": 1154,
+          "ymax": 1518
+        },
+        {
+          "text": "Cambridge",
+          "xmin": 1152,
+          "ymin": 1482,
+          "xmax": 1435,
+          "ymax": 1537
+        },
+        {
+          "text": "|",
+          "xmin": 1430,
+          "ymin": 1497,
+          "xmax": 1437,
+          "ymax": 1513
+        },
+        {
+          "text": "Harvard",
+          "xmin": 1462,
+          "ymin": 1484,
+          "xmax": 1651,
+          "ymax": 1528
+        },
+        {
+          "text": "University",
+          "xmin": 1673,
+          "ymin": 1486,
+          "xmax": 1915,
+          "ymax": 1537
+        },
+        {
+          "text": "Press",
+          "xmin": 1933,
+          "ymin": 1488,
+          "xmax": 2070,
+          "ymax": 1529
+        },
+        {
+          "text": "A",
+          "xmin": 2069,
+          "ymin": 1504,
+          "xmax": 2079,
+          "ymax": 1525
+        },
+        {
+          "text": "2007);",
+          "xmin": 2099,
+          "ymin": 1482,
+          "xmax": 2253,
+          "ymax": 1531
+        },
+        {
+          "text": "J",
+          "xmin": 2269,
+          "ymin": 1487,
+          "xmax": 2296,
+          "ymax": 1525
+        },
+        {
+          "text": "I",
+          "xmin": 2299,
+          "ymin": 1499,
+          "xmax": 2307,
+          "ymax": 1515
+        },
+        {
+          "text": "Bryan",
+          "xmin": 303,
+          "ymin": 1565,
+          "xmax": 437,
+          "ymax": 1613
+        },
+        {
+          "text": "Hehir,",
+          "xmin": 459,
+          "ymin": 1562,
+          "xmax": 596,
+          "ymax": 1610
+        },
+        {
+          "text": "f",
+          "xmin": 613,
+          "ymin": 1562,
+          "xmax": 627,
+          "ymax": 1577
+        },
+        {
+          "text": "\"Why",
+          "xmin": 616,
+          "ymin": 1562,
+          "xmax": 739,
+          "ymax": 1617
+        },
+        {
+          "text": "Religion?",
+          "xmin": 756,
+          "ymin": 1562,
+          "xmax": 978,
+          "ymax": 1617
+        },
+        {
+          "text": "Why",
+          "xmin": 995,
+          "ymin": 1562,
+          "xmax": 1101,
+          "ymax": 1619
+        },
+        {
+          "text": "Now?\"",
+          "xmin": 1118,
+          "ymin": 1562,
+          "xmax": 1274,
+          "ymax": 1607
+        },
+        {
+          "text": "in",
+          "xmin": 1292,
+          "ymin": 1565,
+          "xmax": 1330,
+          "ymax": 1606
+        },
+        {
+          "text": "Timothy",
+          "xmin": 1348,
+          "ymin": 1562,
+          "xmax": 1552,
+          "ymax": 1616
+        },
+        {
+          "text": "Samuel",
+          "xmin": 1568,
+          "ymin": 1562,
+          "xmax": 1751,
+          "ymax": 1607
+        },
+        {
+          "text": "Shah",
+          "xmin": 1770,
+          "ymin": 1562,
+          "xmax": 1890,
+          "ymax": 1607
+        },
+        {
+          "text": "|",
+          "xmin": 1891,
+          "ymin": 1584,
+          "xmax": 1898,
+          "ymax": 1605
+        },
+        {
+          "text": "Alfred",
+          "xmin": 1919,
+          "ymin": 1562,
+          "xmax": 2065,
+          "ymax": 1607
+        },
+        {
+          "text": "Stepan",
+          "xmin": 2085,
+          "ymin": 1564,
+          "xmax": 2255,
+          "ymax": 1615
+        },
+        {
+          "text": "|",
+          "xmin": 2255,
+          "ymin": 1585,
+          "xmax": 2262,
+          "ymax": 1605
+        },
+        {
+          "text": "and",
+          "xmin": 301,
+          "ymin": 1640,
+          "xmax": 390,
+          "ymax": 1684
+        },
+        {
+          "text": "Monica",
+          "xmin": 411,
+          "ymin": 1642,
+          "xmax": 590,
+          "ymax": 1684
+        },
+        {
+          "text": "Duffy",
+          "xmin": 611,
+          "ymin": 1640,
+          "xmax": 739,
+          "ymax": 1693
+        },
+        {
+          "text": "Toft.",
+          "xmin": 755,
+          "ymin": 1640,
+          "xmax": 864,
+          "ymax": 1684
+        },
+        {
+          "text": "eds.,",
+          "xmin": 881,
+          "ymin": 1640,
+          "xmax": 994,
+          "ymax": 1690
+        },
+        {
+          "text": "Rethinking",
+          "xmin": 1010,
+          "ymin": 1640,
+          "xmax": 1264,
+          "ymax": 1693
+        },
+        {
+          "text": "Religion",
+          "xmin": 1279,
+          "ymin": 1640,
+          "xmax": 1470,
+          "ymax": 1692
+        },
+        {
+          "text": "and",
+          "xmin": 1488,
+          "ymin": 1640,
+          "xmax": 1579,
+          "ymax": 1685
+        },
+        {
+          "text": "World",
+          "xmin": 1596,
+          "ymin": 1640,
+          "xmax": 1731,
+          "ymax": 1684
+        },
+        {
+          "text": "Affairs",
+          "xmin": 1744,
+          "ymin": 1640,
+          "xmax": 1907,
+          "ymax": 1684
+        },
+        {
+          "text": "(NY",
+          "xmin": 1926,
+          "ymin": 1638,
+          "xmax": 2013,
+          "ymax": 1684
+        },
+        {
+          "text": "7.",
+          "xmin": 2008,
+          "ymin": 1643,
+          "xmax": 2026,
+          "ymax": 1660
+        },
+        {
+          "text": "Oxford",
+          "xmin": 2046,
+          "ymin": 1640,
+          "xmax": 2207,
+          "ymax": 1684
+        },
+        {
+          "text": "|",
+          "xmin": 2208,
+          "ymin": 1660,
+          "xmax": 2216,
+          "ymax": 1684
+        },
+        {
+          "text": "2012",
+          "xmin": 301,
+          "ymin": 1717,
+          "xmax": 429,
+          "ymax": 1763
+        },
+        {
+          "text": ")",
+          "xmin": 427,
+          "ymin": 1722,
+          "xmax": 438,
+          "ymax": 1765
+        },
+        {
+          "text": "pp.",
+          "xmin": 462,
+          "ymin": 1731,
+          "xmax": 534,
+          "ymax": 1772
+        },
+        {
+          "text": "15-24",
+          "xmin": 555,
+          "ymin": 1721,
+          "xmax": 692,
+          "ymax": 1761
+        },
+        {
+          "text": "*",
+          "xmin": 691,
+          "ymin": 1732,
+          "xmax": 701,
+          "ymax": 1748
+        },
+        {
+          "text": "Jose",
+          "xmin": 720,
+          "ymin": 1719,
+          "xmax": 839,
+          "ymax": 1763
+        },
+        {
+          "text": "Casanova",
+          "xmin": 858,
+          "ymin": 1721,
+          "xmax": 1099,
+          "ymax": 1763
+        },
+        {
+          "text": "1",
+          "xmin": 1097,
+          "ymin": 1736,
+          "xmax": 1110,
+          "ymax": 1765
+        },
+        {
+          "text": "\"Rethinking",
+          "xmin": 1129,
+          "ymin": 1719,
+          "xmax": 1407,
+          "ymax": 1772
+        },
+        {
+          "text": "Public",
+          "xmin": 1428,
+          "ymin": 1720,
+          "xmax": 1578,
+          "ymax": 1764
+        },
+        {
+          "text": "Religions",
+          "xmin": 1597,
+          "ymin": 1719,
+          "xmax": 1821,
+          "ymax": 1772
+        },
+        {
+          "text": "1",
+          "xmin": 1824,
+          "ymin": 1719,
+          "xmax": 1833,
+          "ymax": 1734
+        },
+        {
+          "text": "in",
+          "xmin": 1859,
+          "ymin": 1721,
+          "xmax": 1898,
+          "ymax": 1763
+        },
+        {
+          "text": "Shah",
+          "xmin": 1917,
+          "ymin": 1719,
+          "xmax": 2039,
+          "ymax": 1763
+        },
+        {
+          "text": "1.",
+          "xmin": 2036,
+          "ymin": 1734,
+          "xmax": 2050,
+          "ymax": 1758
+        },
+        {
+          "text": "et",
+          "xmin": 2068,
+          "ymin": 1725,
+          "xmax": 2114,
+          "ymax": 1764
+        },
+        {
+          "text": "al.,",
+          "xmin": 2130,
+          "ymin": 1719,
+          "xmax": 2197,
+          "ymax": 1770
+        },
+        {
+          "text": "eds.,",
+          "xmin": 301,
+          "ymin": 1797,
+          "xmax": 414,
+          "ymax": 1846
+        },
+        {
+          "text": "pp.",
+          "xmin": 432,
+          "ymin": 1805,
+          "xmax": 525,
+          "ymax": 1848
+        },
+        {
+          "text": "25-35",
+          "xmin": 523,
+          "ymin": 1799,
+          "xmax": 662,
+          "ymax": 1840
+        },
+        {
+          "text": "and",
+          "xmin": 691,
+          "ymin": 1797,
+          "xmax": 780,
+          "ymax": 1842
+        },
+        {
+          "text": "Elizabeth",
+          "xmin": 801,
+          "ymin": 1797,
+          "xmax": 1021,
+          "ymax": 1840
+        },
+        {
+          "text": "Shakman",
+          "xmin": 1041,
+          "ymin": 1797,
+          "xmax": 1271,
+          "ymax": 1842
+        },
+        {
+          "text": "Hurd",
+          "xmin": 1292,
+          "ymin": 1797,
+          "xmax": 1406,
+          "ymax": 1840
+        },
+        {
+          "text": "|",
+          "xmin": 1412,
+          "ymin": 1833,
+          "xmax": 1415,
+          "ymax": 1840
+        },
+        {
+          "text": "\"The",
+          "xmin": 1436,
+          "ymin": 1797,
+          "xmax": 1547,
+          "ymax": 1840
+        },
+        {
+          "text": "Politics",
+          "xmin": 1566,
+          "ymin": 1797,
+          "xmax": 1744,
+          "ymax": 1840
+        },
+        {
+          "text": "of",
+          "xmin": 1763,
+          "ymin": 1797,
+          "xmax": 1813,
+          "ymax": 1842
+        },
+        {
+          "text": "Secularism",
+          "xmin": 1829,
+          "ymin": 1797,
+          "xmax": 2106,
+          "ymax": 1840
+        },
+        {
+          "text": "\"",
+          "xmin": 2100,
+          "ymin": 1799,
+          "xmax": 2116,
+          "ymax": 1825
+        },
+        {
+          "text": "in",
+          "xmin": 2141,
+          "ymin": 1799,
+          "xmax": 2180,
+          "ymax": 1840
+        },
+        {
+          "text": "Shah",
+          "xmin": 301,
+          "ymin": 1878,
+          "xmax": 429,
+          "ymax": 1922
+        },
+        {
+          "text": "|",
+          "xmin": 428,
+          "ymin": 1915,
+          "xmax": 432,
+          "ymax": 1917
+        },
+        {
+          "text": "et",
+          "xmin": 434,
+          "ymin": 1884,
+          "xmax": 498,
+          "ymax": 1921
+        },
+        {
+          "text": "al.,",
+          "xmin": 514,
+          "ymin": 1878,
+          "xmax": 581,
+          "ymax": 1926
+        },
+        {
+          "text": "pp.",
+          "xmin": 599,
+          "ymin": 1890,
+          "xmax": 671,
+          "ymax": 1931
+        },
+        {
+          "text": "36-54",
+          "xmin": 691,
+          "ymin": 1880,
+          "xmax": 834,
+          "ymax": 1920
+        },
+        {
+          "text": "HARVARD",
+          "xmin": 451,
+          "ymin": 2252,
+          "xmax": 780,
+          "ymax": 2298
+        },
+        {
+          "text": "DIVIN",
+          "xmin": 810,
+          "ymin": 2253,
+          "xmax": 982,
+          "ymax": 2298
+        },
+        {
+          "text": "ITY",
+          "xmin": 981,
+          "ymin": 2253,
+          "xmax": 1065,
+          "ymax": 2295
+        },
+        {
+          "text": "SCHOOL",
+          "xmin": 1086,
+          "ymin": 2253,
+          "xmax": 1337,
+          "ymax": 2299
+        },
+        {
+          "text": "O",
+          "xmin": 242,
+          "ymin": 2577,
+          "xmax": 277,
+          "ymax": 2625
+        },
+        {
+          "text": "RELIGION",
+          "xmin": 365,
+          "ymin": 2586,
+          "xmax": 548,
+          "ymax": 2617
+        },
+        {
+          "text": "AND",
+          "xmin": 564,
+          "ymin": 2586,
+          "xmax": 647,
+          "ymax": 2617
+        },
+        {
+          "text": "PUBLIC",
+          "xmin": 665,
+          "ymin": 2586,
+          "xmax": 808,
+          "ymax": 2620
+        },
+        {
+          "text": "LIFE",
+          "xmin": 823,
+          "ymin": 2586,
+          "xmax": 904,
+          "ymax": 2619
+        },
+        {
+          "text": "Harvard",
+          "xmin": 927,
+          "ymin": 2586,
+          "xmax": 1074,
+          "ymax": 2620
+        },
+        {
+          "text": "Divinity",
+          "xmin": 1092,
+          "ymin": 2586,
+          "xmax": 1229,
+          "ymax": 2623
+        },
+        {
+          "text": "School",
+          "xmin": 1243,
+          "ymin": 2585,
+          "xmax": 1373,
+          "ymax": 2620
+        },
+        {
+          "text": "14",
+          "xmin": 365,
+          "ymin": 2651,
+          "xmax": 408,
+          "ymax": 2680
+        },
+        {
+          "text": "Divinity",
+          "xmin": 425,
+          "ymin": 2651,
+          "xmax": 563,
+          "ymax": 2689
+        },
+        {
+          "text": "Avenue",
+          "xmin": 574,
+          "ymin": 2652,
+          "xmax": 723,
+          "ymax": 2686
+        },
+        {
+          "text": "Cambridge,",
+          "xmin": 738,
+          "ymin": 2650,
+          "xmax": 957,
+          "ymax": 2690
+        },
+        {
+          "text": "Massachusetts",
+          "xmin": 971,
+          "ymin": 2650,
+          "xmax": 1266,
+          "ymax": 2683
+        },
+        {
+          "text": "02138",
+          "xmin": 1280,
+          "ymin": 2651,
+          "xmax": 1398,
+          "ymax": 2683
+        },
+        {
+          "text": "Social",
+          "xmin": 225,
+          "ymin": 2819,
+          "xmax": 340,
+          "ymax": 2853
+        },
+        {
+          "text": "in",
+          "xmin": 392,
+          "ymin": 2803,
+          "xmax": 457,
+          "ymax": 2869
+        },
+        {
+          "text": "About",
+          "xmin": 225,
+          "ymin": 3041,
+          "xmax": 340,
+          "ymax": 3075
+        },
+        {
+          "text": "Initiatives",
+          "xmin": 902,
+          "ymin": 3042,
+          "xmax": 1085,
+          "ymax": 3075
+        },
+        {
+          "text": "For",
+          "xmin": 1577,
+          "ymin": 3042,
+          "xmax": 1639,
+          "ymax": 3076
+        },
+        {
+          "text": "Educators",
+          "xmin": 1651,
+          "ymin": 3041,
+          "xmax": 1842,
+          "ymax": 3075
+        },
+        {
+          "text": "Contact",
+          "xmin": 226,
+          "ymin": 3208,
+          "xmax": 377,
+          "ymax": 3242
+        },
+        {
+          "text": "What",
+          "xmin": 900,
+          "ymin": 3208,
+          "xmax": 1000,
+          "ymax": 3242
+        },
+        {
+          "text": "We",
+          "xmin": 1012,
+          "ymin": 3208,
+          "xmax": 1071,
+          "ymax": 3242
+        },
+        {
+          "text": "Do",
+          "xmin": 1086,
+          "ymin": 3208,
+          "xmax": 1134,
+          "ymax": 3242
+        },
+        {
+          "text": "News",
+          "xmin": 1577,
+          "ymin": 3208,
+          "xmax": 1683,
+          "ymax": 3239
+        },
+        {
+          "text": "&",
+          "xmin": 1697,
+          "ymin": 3208,
+          "xmax": 1720,
+          "ymax": 3238
+        },
+        {
+          "text": "Events",
+          "xmin": 1736,
+          "ymin": 3208,
+          "xmax": 1861,
+          "ymax": 3242
+        }
+      ],
+      "raw_text": "In spite of the ongoing global influences of religions in political life throughout this time period | it is only in the aftermath of 1) the Iranian Revolution in 1979 : 2) the fall of the Berlin wall in 1989 and the subsequent rise VS. the wi videly predicted demise of religion 1 and 3 ) the 9/11 and 7/7 attacks that political theorists in the West began to acknowledge the highly problematic ways that religions and religious influences have been marginalized and too simplistically rendered I This shift is a welcome one and paves the way for multi and cross-disciplinary collaborations with religious studies scholars across the full range of social science investigations in order to explore the complex and critically important roles that religions play in our contemporary world Endnotes 1. For a full text compilation of all the Southern Baptist resolutions on abortion from 1971-2005 O see http://www.johnstonsarchive net/baptist/sbcabres.htm 2. See Charles Taylor, A Secular Age ( Cambridge | Harvard University Press A 2007); J I Bryan Hehir, f \"Why Religion? Why Now?\" in Timothy Samuel Shah | Alfred Stepan | and Monica Duffy Toft. eds., Rethinking Religion and World Affairs (NY 7. Oxford | 2012 ) pp. 15-24 * Jose Casanova 1 \"Rethinking Public Religions 1 in Shah 1. et al., eds., pp. 25-35 and Elizabeth Shakman Hurd | \"The Politics of Secularism \" in Shah | et al., pp. 36-54 HARVARD DIVIN ITY SCHOOL O RELIGION AND PUBLIC LIFE Harvard Divinity School 14 Divinity Avenue Cambridge, Massachusetts 02138 Social in About Initiatives For Educators Contact What We Do News & Events "
+    },
+    {
+      "page": 4,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/c3700a7f-eb02-41bf-b63a-3801721c243b-5.jpeg?ik-s=b1c537f7a50eb9253f627fea9789615887fc93b0&ik-t=1747195778",
+      "size": {
+        "width": 2479,
+        "height": 3508
+      },
+      "words": [
+        {
+          "text": "For",
+          "xmin": 227,
+          "ymin": 192,
+          "xmax": 288,
+          "ymax": 225
+        },
+        {
+          "text": "Professionals",
+          "xmin": 301,
+          "ymin": 190,
+          "xmax": 564,
+          "ymax": 225
+        },
+        {
+          "text": "Give",
+          "xmin": 901,
+          "ymin": 192,
+          "xmax": 981,
+          "ymax": 225
+        },
+        {
+          "text": "Engage",
+          "xmin": 1577,
+          "ymin": 192,
+          "xmax": 1719,
+          "ymax": 235
+        },
+        {
+          "text": "&",
+          "xmin": 1732,
+          "ymin": 192,
+          "xmax": 1755,
+          "ymax": 223
+        },
+        {
+          "text": "Apply",
+          "xmin": 1769,
+          "ymin": 191,
+          "xmax": 1877,
+          "ymax": 231
+        },
+        {
+          "text": "Religion",
+          "xmin": 227,
+          "ymin": 357,
+          "xmax": 378,
+          "ymax": 397
+        },
+        {
+          "text": "in",
+          "xmin": 394,
+          "ymin": 358,
+          "xmax": 421,
+          "ymax": 390
+        },
+        {
+          "text": "Context",
+          "xmin": 438,
+          "ymin": 358,
+          "xmax": 586,
+          "ymax": 392
+        },
+        {
+          "text": "For",
+          "xmin": 902,
+          "ymin": 358,
+          "xmax": 964,
+          "ymax": 392
+        },
+        {
+          "text": "Students",
+          "xmin": 974,
+          "ymin": 357,
+          "xmax": 1146,
+          "ymax": 392
+        },
+        {
+          "text": "Admin",
+          "xmin": 225,
+          "ymin": 522,
+          "xmax": 348,
+          "ymax": 559
+        },
+        {
+          "text": "login",
+          "xmin": 356,
+          "ymin": 522,
+          "xmax": 456,
+          "ymax": 563
+        },
+        {
+          "text": "HARVARD",
+          "xmin": 279,
+          "ymin": 780,
+          "xmax": 512,
+          "ymax": 811
+        },
+        {
+          "text": "UNIVERSITY",
+          "xmin": 534,
+          "ymin": 779,
+          "xmax": 828,
+          "ymax": 811
+        },
+        {
+          "text": "Copyright",
+          "xmin": 226,
+          "ymin": 932,
+          "xmax": 411,
+          "ymax": 975
+        },
+        {
+          "text": "C",
+          "xmin": 423,
+          "ymin": 933,
+          "xmax": 452,
+          "ymax": 965
+        },
+        {
+          "text": "2025",
+          "xmin": 469,
+          "ymin": 933,
+          "xmax": 565,
+          "ymax": 967
+        },
+        {
+          "text": "The",
+          "xmin": 576,
+          "ymin": 932,
+          "xmax": 648,
+          "ymax": 967
+        },
+        {
+          "text": "President",
+          "xmin": 663,
+          "ymin": 932,
+          "xmax": 844,
+          "ymax": 967
+        },
+        {
+          "text": "and",
+          "xmin": 857,
+          "ymin": 932,
+          "xmax": 926,
+          "ymax": 967
+        },
+        {
+          "text": "Fellows",
+          "xmin": 942,
+          "ymin": 932,
+          "xmax": 1086,
+          "ymax": 967
+        },
+        {
+          "text": "of",
+          "xmin": 1099,
+          "ymin": 931,
+          "xmax": 1140,
+          "ymax": 967
+        },
+        {
+          "text": "Harvard",
+          "xmin": 1152,
+          "ymin": 932,
+          "xmax": 1299,
+          "ymax": 967
+        },
+        {
+          "text": "College",
+          "xmin": 1316,
+          "ymin": 932,
+          "xmax": 1459,
+          "ymax": 974
+        },
+        {
+          "text": "Accessibility",
+          "xmin": 225,
+          "ymin": 1097,
+          "xmax": 469,
+          "ymax": 1139
+        },
+        {
+          "text": "Digital",
+          "xmin": 224,
+          "ymin": 1238,
+          "xmax": 348,
+          "ymax": 1277
+        },
+        {
+          "text": "Accessibility",
+          "xmin": 353,
+          "ymin": 1238,
+          "xmax": 605,
+          "ymax": 1279
+        },
+        {
+          "text": "Report",
+          "xmin": 224,
+          "ymin": 1380,
+          "xmax": 358,
+          "ymax": 1418
+        },
+        {
+          "text": "Copyright",
+          "xmin": 348,
+          "ymin": 1379,
+          "xmax": 552,
+          "ymax": 1421
+        },
+        {
+          "text": "Infringement",
+          "xmin": 559,
+          "ymin": 1379,
+          "xmax": 812,
+          "ymax": 1421
+        },
+        {
+          "text": "Info",
+          "xmin": 224,
+          "ymin": 1518,
+          "xmax": 297,
+          "ymax": 1558
+        },
+        {
+          "text": "Practices",
+          "xmin": 305,
+          "ymin": 1520,
+          "xmax": 493,
+          "ymax": 1560
+        }
+      ],
+      "raw_text": "For Professionals Give Engage & Apply Religion in Context For Students Admin login HARVARD UNIVERSITY Copyright C 2025 The President and Fellows of Harvard College Accessibility Digital Accessibility Report Copyright Infringement Info Practices "
+    }
+  ]
+}
